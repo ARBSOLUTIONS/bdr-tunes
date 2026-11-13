@@ -1,0 +1,486 @@
+{
+ "class": "Pro Import Big Block",
+ "combo": "Extreme Import 1__turbo__6 Cylinder Pro Import Big Block__Slick36",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 3,
+  "classIndex": 2,
+  "className": "Pro Import Big Block",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 35,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 5.621526718139648,
+  "date": "2026-11-13T06:32:51",
+  "eighth": 4.282871,
+  "et": 6.3811,
+  "mph": 246.114746,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 10650.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 10250.0,
+   "shiftType": 1
+  },
+  "sixty": 1.1074959,
+  "threeThirty": 2.91143775,
+  "tune": {
+   "Boost1": 1.11,
+   "Boost2": 1.24,
+   "Boost3": 1.3,
+   "Boost4": 1.3,
+   "Boost5": 1.3,
+   "Boost6": 1.3,
+   "Boost7": 1.3,
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.44,
+   "ConverterAmount1": 80.0,
+   "ConverterAmount2": 84.0,
+   "ConverterAmount3": 88.0,
+   "ConverterAmount4": 92.0,
+   "ConverterAmount5": 96.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.8,
+   "ConverterTimer3": 1.575,
+   "ConverterTimer4": 2.375,
+   "ConverterTimer5": 3.175,
+   "ConverterTimer6": 3.975,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.17,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.17,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "GearTimer5": 8.0,
+   "GearTimer6": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 8200.0,
+   "MaxRPM": 10650.0,
+   "RLBump": 2000.0,
+   "RLForce": 11300.0,
+   "RLLength": 0.2,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 11300.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 5.25,
+   "Ratio2": 4.375,
+   "Ratio3": 3.625,
+   "Ratio4": 3.0,
+   "Ratio5": 2.5,
+   "Ratio6": 2.075,
+   "Ratio7": 1.725,
+   "RatioF": 1.275,
+   "RevCutoffTime": 0.01,
+   "Shift1": 10450.0,
+   "Shift2": 10450.0,
+   "Shift3": 10450.0,
+   "Shift4": 10450.0,
+   "Shift5": 10450.0,
+   "Shift6": 10450.0,
+   "Shift7": 1500.0,
+   "Shift8": 10250.0,
+   "ShiftType": 1,
+   "SlipTorque": 7150.0,
+   "Timing1": 17.2,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 6.8,
+   "Timing2": 22.6,
+   "Timing3": 26.0,
+   "Timing4": 28.8,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": 0.0,
+   "WheelieBarMinimum": -4.0,
+   "WheelieControl1": 2,
+   "WheelieControl2": 2,
+   "WheelieControl3": 2
+  },
+  "validation": {
+   "aiEtMean": 5.6224,
+   "count": 3,
+   "ets": [
+    6.381067752838135,
+    6.4735283851623535,
+    5.6153035163879395
+   ],
+   "maxLateral": 0.2113932,
+   "passed": true,
+   "wins": 2
+  }
+ },
+ "identity": {
+  "adder": "turbo",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": false,
+   "isSupercharger": false,
+   "isTurbo": true
+  },
+  "availableEngines": [
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   },
+   {
+    "id": 36,
+    "name": "3 Rotor Pro Import Small Block"
+   },
+   {
+    "id": 37,
+    "name": "2 Rotor Pro Import Small Block"
+   },
+   {
+    "id": 38,
+    "name": "4 Cyl Pro Import Small Block"
+   },
+   {
+    "id": 35,
+    "name": "6 Cylinder Pro Import Big Block"
+   }
+  ],
+  "baseMaxRPM": 8500.0,
+  "baseTorque": 2400.0,
+  "carClass": "ExtremeImport",
+  "carId": 3,
+  "carName": "Extreme Import 1",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Slick36",
+  "defaultEngineId": 35,
+  "destroyRPM": 12000.0,
+  "disableConverter": false,
+  "engineCategories": [
+   "ImportEngine"
+  ],
+  "engineId": 35,
+  "engineName": "6 Cylinder Pro Import Big Block",
+  "gripMultiplier": 0.8,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 9500.0,
+  "powerGainMultiplier": 1.84,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Slick36",
+  "useWheelieBar": true,
+  "weight": 1400.0
+ },
+ "winning": {
+  "aiEt": 5.621526718139648,
+  "date": "2026-11-13T06:32:51",
+  "eighth": 4.282871,
+  "et": 6.3811,
+  "mph": 246.114746,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 10650.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 10250.0,
+   "shiftType": 1
+  },
+  "sixty": 1.1074959,
+  "threeThirty": 2.91143775,
+  "tune": {
+   "Boost1": 1.11,
+   "Boost2": 1.24,
+   "Boost3": 1.3,
+   "Boost4": 1.3,
+   "Boost5": 1.3,
+   "Boost6": 1.3,
+   "Boost7": 1.3,
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.44,
+   "ConverterAmount1": 80.0,
+   "ConverterAmount2": 84.0,
+   "ConverterAmount3": 88.0,
+   "ConverterAmount4": 92.0,
+   "ConverterAmount5": 96.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.8,
+   "ConverterTimer3": 1.575,
+   "ConverterTimer4": 2.375,
+   "ConverterTimer5": 3.175,
+   "ConverterTimer6": 3.975,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.17,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.17,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "GearTimer5": 8.0,
+   "GearTimer6": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 8200.0,
+   "MaxRPM": 10650.0,
+   "RLBump": 2000.0,
+   "RLForce": 11300.0,
+   "RLLength": 0.2,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 11300.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 5.25,
+   "Ratio2": 4.375,
+   "Ratio3": 3.625,
+   "Ratio4": 3.0,
+   "Ratio5": 2.5,
+   "Ratio6": 2.075,
+   "Ratio7": 1.725,
+   "RatioF": 1.275,
+   "RevCutoffTime": 0.01,
+   "Shift1": 10450.0,
+   "Shift2": 10450.0,
+   "Shift3": 10450.0,
+   "Shift4": 10450.0,
+   "Shift5": 10450.0,
+   "Shift6": 10450.0,
+   "Shift7": 1500.0,
+   "Shift8": 10250.0,
+   "ShiftType": 1,
+   "SlipTorque": 7150.0,
+   "Timing1": 17.2,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 6.8,
+   "Timing2": 22.6,
+   "Timing3": 26.0,
+   "Timing4": 28.8,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": 0.0,
+   "WheelieBarMinimum": -4.0,
+   "WheelieControl1": 2,
+   "WheelieControl2": 2,
+   "WheelieControl3": 2
+  },
+  "validation": {
+   "aiEtMean": 5.6224,
+   "count": 3,
+   "ets": [
+    6.381067752838135,
+    6.4735283851623535,
+    5.6153035163879395
+   ],
+   "maxLateral": 0.2113932,
+   "passed": true,
+   "wins": 2
+  }
+ }
+}

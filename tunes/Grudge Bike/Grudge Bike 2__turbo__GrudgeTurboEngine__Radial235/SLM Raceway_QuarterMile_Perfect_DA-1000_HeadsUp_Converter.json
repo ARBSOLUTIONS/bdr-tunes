@@ -1,0 +1,511 @@
+{
+ "class": "Grudge Bike",
+ "combo": "Grudge Bike 2__turbo__GrudgeTurboEngine__Radial235",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 45,
+  "classIndex": 27,
+  "className": "Grudge Bike",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 58,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": null,
+  "date": "2026-11-13T08:26:15",
+  "eighth": 4.232295,
+  "et": 6.5282,
+  "mph": 218.327255,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 10450.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8450.0,
+   "shiftType": 1
+  },
+  "sixty": 1.06920171,
+  "threeThirty": 2.8222127,
+  "tune": {
+   "Boost1": 0.98,
+   "Boost2": 1.24,
+   "Boost3": 1.3,
+   "Boost4": 1.3,
+   "Boost5": 1.3,
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.36,
+   "ConverterAmount1": 77.0,
+   "ConverterAmount2": 82.0,
+   "ConverterAmount3": 86.0,
+   "ConverterAmount4": 91.0,
+   "ConverterAmount5": 95.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.525,
+   "ConverterTimer3": 1.05,
+   "ConverterTimer4": 1.55,
+   "ConverterTimer5": 2.075,
+   "ConverterTimer6": 2.6,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 8250.0,
+   "MaxRPM": 10450.0,
+   "Ratio1": 3.55,
+   "Ratio2": 2.475,
+   "Ratio3": 1.725,
+   "Ratio4": 1.2,
+   "Ratio5": 0.825,
+   "RatioF": 1.9,
+   "RevCutoffTime": 0.01,
+   "Shift1": 8650.0,
+   "Shift2": 8650.0,
+   "Shift3": 8650.0,
+   "Shift4": 8650.0,
+   "Shift7": 1500.0,
+   "Shift8": 8450.0,
+   "ShiftType": 1,
+   "SlipTorque": 5750.0,
+   "Timing1": 13.6,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 1.0,
+   "Timing2": 16.4,
+   "Timing3": 19.0,
+   "Timing4": 21.5,
+   "Timing5": 24.0,
+   "Timing6": 26.4,
+   "Timing7": 28.9,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": null,
+   "count": 3,
+   "ets": [
+    6.4990363121032715,
+    6.541574954986572,
+    6.528154373168945
+   ],
+   "maxLateral": 0.07868336,
+   "passed": true,
+   "wins": 3
+  }
+ },
+ "identity": {
+  "adder": "turbo",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": false,
+   "isSupercharger": false,
+   "isTurbo": true
+  },
+  "availableEngines": [
+   {
+    "id": 58,
+    "name": "GrudgeTurboEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   },
+   {
+    "id": 58,
+    "name": "GrudgeTurboEngine"
+   },
+   {
+    "id": 59,
+    "name": "GrudgeNitrousEngine"
+   }
+  ],
+  "baseMaxRPM": 5000.0,
+  "baseTorque": 900.0,
+  "carClass": "GrudgeBike",
+  "carId": 45,
+  "carName": "Grudge Bike 2",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Radial235",
+  "defaultEngineId": 58,
+  "destroyRPM": 12000.0,
+  "disableConverter": true,
+  "engineCategories": [],
+  "engineId": 58,
+  "engineName": "GrudgeTurboEngine",
+  "gripMultiplier": 2.2,
+  "ignoreSuspension": true,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 10000.0,
+  "powerGainMultiplier": 0.8,
+  "tire": "Radial235",
+  "useWheelieBar": false,
+  "weight": 400.0
+ },
+ "winning": {
+  "aiEt": null,
+  "date": "2026-11-13T08:26:15",
+  "eighth": 4.232295,
+  "et": 6.5282,
+  "mph": 218.327255,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 10450.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8450.0,
+   "shiftType": 1
+  },
+  "sixty": 1.06920171,
+  "threeThirty": 2.8222127,
+  "tune": {
+   "Boost1": 0.98,
+   "Boost2": 1.24,
+   "Boost3": 1.3,
+   "Boost4": 1.3,
+   "Boost5": 1.3,
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.36,
+   "ConverterAmount1": 77.0,
+   "ConverterAmount2": 82.0,
+   "ConverterAmount3": 86.0,
+   "ConverterAmount4": 91.0,
+   "ConverterAmount5": 95.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.525,
+   "ConverterTimer3": 1.05,
+   "ConverterTimer4": 1.55,
+   "ConverterTimer5": 2.075,
+   "ConverterTimer6": 2.6,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 8250.0,
+   "MaxRPM": 10450.0,
+   "Ratio1": 3.55,
+   "Ratio2": 2.475,
+   "Ratio3": 1.725,
+   "Ratio4": 1.2,
+   "Ratio5": 0.825,
+   "RatioF": 1.9,
+   "RevCutoffTime": 0.01,
+   "Shift1": 8650.0,
+   "Shift2": 8650.0,
+   "Shift3": 8650.0,
+   "Shift4": 8650.0,
+   "Shift7": 1500.0,
+   "Shift8": 8450.0,
+   "ShiftType": 1,
+   "SlipTorque": 5750.0,
+   "Timing1": 13.6,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 1.0,
+   "Timing2": 16.4,
+   "Timing3": 19.0,
+   "Timing4": 21.5,
+   "Timing5": 24.0,
+   "Timing6": 26.4,
+   "Timing7": 28.9,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": null,
+   "count": 3,
+   "ets": [
+    6.4990363121032715,
+    6.541574954986572,
+    6.528154373168945
+   ],
+   "maxLateral": 0.07868336,
+   "passed": true,
+   "wins": 3
+  }
+ }
+}

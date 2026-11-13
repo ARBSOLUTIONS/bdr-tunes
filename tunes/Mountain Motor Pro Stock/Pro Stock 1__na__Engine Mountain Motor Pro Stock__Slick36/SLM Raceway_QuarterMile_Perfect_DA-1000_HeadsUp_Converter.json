@@ -1,0 +1,343 @@
+{
+ "class": "Mountain Motor Pro Stock",
+ "combo": "Pro Stock 1__na__Engine Mountain Motor Pro Stock__Slick36",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 16,
+  "classIndex": 19,
+  "className": "Mountain Motor Pro Stock",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 33,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 6.34352445602417,
+  "date": "2026-11-13T08:07:02",
+  "eighth": 4.330688,
+  "et": 7.5139,
+  "mph": 146.12442,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 10300.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8150.0,
+   "shiftType": 1
+  },
+  "sixty": 1.03523731,
+  "threeThirty": 2.74325085,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.5,
+   "ConverterAmount1": 86.0,
+   "ConverterAmount2": 89.0,
+   "ConverterAmount3": 92.0,
+   "ConverterAmount4": 94.0,
+   "ConverterAmount5": 97.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.8,
+   "ConverterTimer3": 1.6,
+   "ConverterTimer4": 2.4,
+   "ConverterTimer5": 3.2,
+   "ConverterTimer6": 3.975,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.1,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.1,
+   "FRRebound": 5000.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 6050.0,
+   "MaxRPM": 10300.0,
+   "RLBump": 2000.0,
+   "RLForce": 13350.0,
+   "RLLength": 0.2,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 13350.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 4.025,
+   "Ratio2": 3.6,
+   "Ratio3": 3.225,
+   "Ratio4": 2.9,
+   "Ratio5": 2.6,
+   "RatioF": 1.525,
+   "RevCutoffTime": 0.01,
+   "Shift8": 8150.0,
+   "ShiftType": 1,
+   "SlipTorque": 7150.0,
+   "Timing1": 30.0,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 8.5,
+   "Timing2": 30.0,
+   "Timing3": 30.0,
+   "Timing4": 30.0,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": 0.0,
+   "WheelieBarMinimum": -4.0,
+   "WheelieControl1": 13,
+   "WheelieControl2": 13,
+   "WheelieControl3": 13
+  },
+  "validation": {
+   "aiEtMean": 6.3437,
+   "count": 3,
+   "ets": [
+    7.513930320739746,
+    7.490336894989014,
+    7.525758743286133
+   ],
+   "maxLateral": 0.181843951,
+   "passed": true,
+   "wins": 0
+  }
+ },
+ "identity": {
+  "adder": "na",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": false,
+   "isSupercharger": false,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 33,
+    "name": "Engine Mountain Motor Pro Stock"
+   },
+   {
+    "id": 34,
+    "name": "Engine Top Sportsman Nitrous"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 34,
+    "name": "Engine Top Sportsman Nitrous"
+   },
+   {
+    "id": 34,
+    "name": "Engine Top Sportsman Nitrous"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 88,
+    "name": "Engine Top Sportsman Nitrous (1)"
+   }
+  ],
+  "baseMaxRPM": 8500.0,
+  "baseTorque": 1800.0,
+  "carClass": "ProStock",
+  "carId": 16,
+  "carName": "Pro Stock 1",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Slick36",
+  "defaultEngineId": 32,
+  "destroyRPM": 12500.0,
+  "disableConverter": true,
+  "engineCategories": [
+   "ProStockEngine"
+  ],
+  "engineId": 33,
+  "engineName": "Engine Mountain Motor Pro Stock",
+  "gripMultiplier": 0.6,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": true,
+  "maxSafeRPM": 10000.0,
+  "powerGainMultiplier": 0.0,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Slick36",
+  "useWheelieBar": true,
+  "weight": 1450.0
+ },
+ "winning": null
+}

@@ -1,0 +1,636 @@
+{
+ "class": "Top Dragster",
+ "combo": "Fuel Altered__na__Top NA__Slick36",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 0,
+  "classIndex": 34,
+  "className": "Top Dragster",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 68,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 6.0976457595825195,
+  "date": "2026-11-13T08:56:34",
+  "eighth": 4.27597666,
+  "et": 6.9716,
+  "mph": 180.46608,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 8000.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 7150.0,
+   "shiftType": 1
+  },
+  "sixty": 0.919492,
+  "threeThirty": 2.7309382,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.34,
+   "ConverterAmount1": 85.0,
+   "ConverterAmount2": 88.0,
+   "ConverterAmount3": 91.0,
+   "ConverterAmount4": 94.0,
+   "ConverterAmount5": 97.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.475,
+   "ConverterTimer3": 0.975,
+   "ConverterTimer4": 1.45,
+   "ConverterTimer5": 1.925,
+   "ConverterTimer6": 2.4,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.18,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.18,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 3950.0,
+   "MaxRPM": 8000.0,
+   "RLBump": 2000.0,
+   "RLForce": 19050.0,
+   "RLLength": 0.1,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 19050.0,
+   "RRLength": 0.1,
+   "RRRebound": 5000.0,
+   "Ratio1": 3.425,
+   "Ratio2": 2.825,
+   "Ratio3": 2.35,
+   "Ratio4": 1.925,
+   "Ratio5": 1.6,
+   "RatioF": 1.875,
+   "RevCutoffTime": 0.01,
+   "Shift1": 7350.0,
+   "Shift2": 7350.0,
+   "Shift3": 7350.0,
+   "Shift4": 7350.0,
+   "Shift7": 1500.0,
+   "Shift8": 7150.0,
+   "ShiftType": 1,
+   "SlipTorque": 6700.0,
+   "Timing1": 28.8,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 17.8,
+   "Timing2": 29.5,
+   "Timing3": 30.0,
+   "Timing4": 30.0,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": 6.0976,
+   "count": 3,
+   "ets": [
+    6.971644878387451,
+    6.966424942016602,
+    6.974470615386963
+   ],
+   "maxLateral": 0.02572128,
+   "passed": true,
+   "wins": 2
+  }
+ },
+ "identity": {
+  "adder": "na",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": false,
+   "isSupercharger": false,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 65,
+    "name": "Top Twin Turbo"
+   },
+   {
+    "id": 66,
+    "name": "Top  Centrifugal"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 73,
+    "name": "Top Diesel"
+   },
+   {
+    "id": 69,
+    "name": "Top 6 Cylinder"
+   },
+   {
+    "id": 70,
+    "name": "Top 4 Cyl"
+   },
+   {
+    "id": 70,
+    "name": "Top 4 Cyl"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 70,
+    "name": "Top 4 Cyl"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 69,
+    "name": "Top 6 Cylinder"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 76,
+    "name": "Top  Centrifugal (1)"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 73,
+    "name": "Top Diesel"
+   },
+   {
+    "id": 69,
+    "name": "Top 6 Cylinder"
+   },
+   {
+    "id": 69,
+    "name": "Top 6 Cylinder"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 69,
+    "name": "Top 6 Cylinder"
+   },
+   {
+    "id": 66,
+    "name": "Top  Centrifugal"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 73,
+    "name": "Top Diesel"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 75,
+    "name": "Top Twin Turbo (1)"
+   },
+   {
+    "id": 83,
+    "name": "Top Diesel (1)"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 69,
+    "name": "Top 6 Cylinder"
+   },
+   {
+    "id": 70,
+    "name": "Top 4 Cyl"
+   },
+   {
+    "id": 66,
+    "name": "Top  Centrifugal"
+   },
+   {
+    "id": 70,
+    "name": "Top 4 Cyl"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 75,
+    "name": "Top Twin Turbo (1)"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 64,
+    "name": "Top Blower"
+   },
+   {
+    "id": 65,
+    "name": "Top Twin Turbo"
+   },
+   {
+    "id": 66,
+    "name": "Top  Centrifugal"
+   },
+   {
+    "id": 67,
+    "name": "Top Nitrous"
+   },
+   {
+    "id": 68,
+    "name": "Top NA"
+   },
+   {
+    "id": 69,
+    "name": "Top 6 Cylinder"
+   },
+   {
+    "id": 70,
+    "name": "Top 4 Cyl"
+   },
+   {
+    "id": 71,
+    "name": "Top 2 Rotor"
+   },
+   {
+    "id": 72,
+    "name": "Top 3 Rotor"
+   },
+   {
+    "id": 73,
+    "name": "Top Diesel"
+   },
+   {
+    "id": 74,
+    "name": "Top Blower (1)"
+   },
+   {
+    "id": 75,
+    "name": "Top Twin Turbo (1)"
+   },
+   {
+    "id": 76,
+    "name": "Top  Centrifugal (1)"
+   },
+   {
+    "id": 77,
+    "name": "Top Nitrous (1)"
+   },
+   {
+    "id": 78,
+    "name": "Top NA (1)"
+   },
+   {
+    "id": 79,
+    "name": "Top 6 Cylinder (1)"
+   },
+   {
+    "id": 80,
+    "name": "Top 4 Cyl (1)"
+   },
+   {
+    "id": 81,
+    "name": "Top 2 Rotor (1)"
+   },
+   {
+    "id": 82,
+    "name": "Top 3 Rotor (1)"
+   },
+   {
+    "id": 83,
+    "name": "Top Diesel (1)"
+   },
+   {
+    "id": 88,
+    "name": "Top NA (2)"
+   }
+  ],
+  "baseMaxRPM": 7500.0,
+  "baseTorque": 1400.0,
+  "carClass": "Bracket",
+  "carId": 0,
+  "carName": "Fuel Altered",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Slick36",
+  "defaultEngineId": 68,
+  "destroyRPM": 8500.0,
+  "disableConverter": false,
+  "engineCategories": [
+   "VisibleEngine"
+  ],
+  "engineId": 68,
+  "engineName": "Top NA",
+  "gripMultiplier": 1.2,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 8000.0,
+  "powerGainMultiplier": 0.0,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Slick36",
+  "useWheelieBar": false,
+  "weight": 1300.0
+ },
+ "winning": {
+  "aiEt": 6.0976457595825195,
+  "date": "2026-11-13T08:56:34",
+  "eighth": 4.27597666,
+  "et": 6.9716,
+  "mph": 180.46608,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 8000.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 7150.0,
+   "shiftType": 1
+  },
+  "sixty": 0.919492,
+  "threeThirty": 2.7309382,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.34,
+   "ConverterAmount1": 85.0,
+   "ConverterAmount2": 88.0,
+   "ConverterAmount3": 91.0,
+   "ConverterAmount4": 94.0,
+   "ConverterAmount5": 97.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.475,
+   "ConverterTimer3": 0.975,
+   "ConverterTimer4": 1.45,
+   "ConverterTimer5": 1.925,
+   "ConverterTimer6": 2.4,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.18,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.18,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 3950.0,
+   "MaxRPM": 8000.0,
+   "RLBump": 2000.0,
+   "RLForce": 19050.0,
+   "RLLength": 0.1,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 19050.0,
+   "RRLength": 0.1,
+   "RRRebound": 5000.0,
+   "Ratio1": 3.425,
+   "Ratio2": 2.825,
+   "Ratio3": 2.35,
+   "Ratio4": 1.925,
+   "Ratio5": 1.6,
+   "RatioF": 1.875,
+   "RevCutoffTime": 0.01,
+   "Shift1": 7350.0,
+   "Shift2": 7350.0,
+   "Shift3": 7350.0,
+   "Shift4": 7350.0,
+   "Shift7": 1500.0,
+   "Shift8": 7150.0,
+   "ShiftType": 1,
+   "SlipTorque": 6700.0,
+   "Timing1": 28.8,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 17.8,
+   "Timing2": 29.5,
+   "Timing3": 30.0,
+   "Timing4": 30.0,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": 6.0976,
+   "count": 3,
+   "ets": [
+    6.971644878387451,
+    6.966424942016602,
+    6.974470615386963
+   ],
+   "maxLateral": 0.02572128,
+   "passed": true,
+   "wins": 2
+  }
+ }
+}

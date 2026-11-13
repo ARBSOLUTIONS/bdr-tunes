@@ -1,0 +1,500 @@
+{
+ "class": "Top Sportsman",
+ "combo": "Pro Stock 1__nitrous__Engine Top Sportsman Nitrous__Slick36",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 16,
+  "classIndex": 20,
+  "className": "Top Sportsman",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 34,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 6.090405464172363,
+  "date": "2026-11-13T08:08:17",
+  "eighth": 3.98208165,
+  "et": 6.1599,
+  "mph": 230.629944,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 8000.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 7500.0,
+   "shiftType": 1
+  },
+  "sixty": 1.01657248,
+  "threeThirty": 2.66211772,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.16,
+   "ConverterAmount1": 96.0,
+   "ConverterAmount2": 97.0,
+   "ConverterAmount3": 98.0,
+   "ConverterAmount4": 99.0,
+   "ConverterAmount5": 99.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.675,
+   "ConverterTimer3": 1.35,
+   "ConverterTimer4": 2.05,
+   "ConverterTimer5": 2.725,
+   "ConverterTimer6": 3.4,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.15,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.15,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 6250.0,
+   "MaxRPM": 8000.0,
+   "Nos1": 200.0,
+   "Nos2": 200.0,
+   "Nos3": 200.0,
+   "Nos4": 200.0,
+   "Nos5": 200.0,
+   "Nos6": 200.0,
+   "NosEnd1": 8.0,
+   "NosEnd2": 8.0,
+   "NosEnd3": 8.0,
+   "NosEnd4": 8.0,
+   "NosEnd5": 8.0,
+   "NosEnd6": 8.0,
+   "NosStart1": 0.0,
+   "NosStart2": 0.175,
+   "NosStart3": 0.325,
+   "NosStart4": 0.5,
+   "NosStart5": 0.65,
+   "NosStart6": 0.825,
+   "RLBump": 2000.0,
+   "RLForce": 14600.0,
+   "RLLength": 0.2,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 14600.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 3.975,
+   "Ratio2": 3.175,
+   "Ratio3": 2.55,
+   "Ratio4": 2.05,
+   "Ratio5": 1.625,
+   "RatioF": 1.125,
+   "RevCutoffTime": 0.01,
+   "Shift1": 7700.0,
+   "Shift2": 7700.0,
+   "Shift3": 7700.0,
+   "Shift4": 7700.0,
+   "Shift7": 1500.0,
+   "Shift8": 7500.0,
+   "ShiftType": 1,
+   "SlipTorque": 6750.0,
+   "Timing1": 22.2,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 4.6,
+   "Timing2": 27.0,
+   "Timing3": 28.5,
+   "Timing4": 29.5,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": 0.0,
+   "WheelieBarMinimum": -4.0,
+   "WheelieControl1": 0,
+   "WheelieControl2": 0,
+   "WheelieControl3": 0
+  },
+  "validation": {
+   "aiEtMean": 6.0966,
+   "count": 3,
+   "ets": [
+    6.132709980010986,
+    6.16545295715332,
+    6.159918308258057
+   ],
+   "maxLateral": 0.194994122,
+   "passed": true,
+   "wins": 2
+  }
+ },
+ "identity": {
+  "adder": "nitrous",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": true,
+   "isSupercharger": false,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 33,
+    "name": "Engine Mountain Motor Pro Stock"
+   },
+   {
+    "id": 34,
+    "name": "Engine Top Sportsman Nitrous"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 34,
+    "name": "Engine Top Sportsman Nitrous"
+   },
+   {
+    "id": 34,
+    "name": "Engine Top Sportsman Nitrous"
+   },
+   {
+    "id": 32,
+    "name": "Engine Pro Stock"
+   },
+   {
+    "id": 88,
+    "name": "Engine Top Sportsman Nitrous (1)"
+   }
+  ],
+  "baseMaxRPM": 8500.0,
+  "baseTorque": 1500.0,
+  "carClass": "ProStock",
+  "carId": 16,
+  "carName": "Pro Stock 1",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Slick36",
+  "defaultEngineId": 32,
+  "destroyRPM": 10500.0,
+  "disableConverter": false,
+  "engineCategories": [
+   "ProStockEngine"
+  ],
+  "engineId": 34,
+  "engineName": "Engine Top Sportsman Nitrous",
+  "gripMultiplier": 0.7,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 9500.0,
+  "powerGainMultiplier": 0.0,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Slick36",
+  "useWheelieBar": true,
+  "weight": 1500.0
+ },
+ "winning": {
+  "aiEt": 6.090405464172363,
+  "date": "2026-11-13T08:08:17",
+  "eighth": 3.98208165,
+  "et": 6.1599,
+  "mph": 230.629944,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 8000.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 7500.0,
+   "shiftType": 1
+  },
+  "sixty": 1.01657248,
+  "threeThirty": 2.66211772,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.16,
+   "ConverterAmount1": 96.0,
+   "ConverterAmount2": 97.0,
+   "ConverterAmount3": 98.0,
+   "ConverterAmount4": 99.0,
+   "ConverterAmount5": 99.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.675,
+   "ConverterTimer3": 1.35,
+   "ConverterTimer4": 2.05,
+   "ConverterTimer5": 2.725,
+   "ConverterTimer6": 3.4,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.15,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.15,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 6250.0,
+   "MaxRPM": 8000.0,
+   "Nos1": 200.0,
+   "Nos2": 200.0,
+   "Nos3": 200.0,
+   "Nos4": 200.0,
+   "Nos5": 200.0,
+   "Nos6": 200.0,
+   "NosEnd1": 8.0,
+   "NosEnd2": 8.0,
+   "NosEnd3": 8.0,
+   "NosEnd4": 8.0,
+   "NosEnd5": 8.0,
+   "NosEnd6": 8.0,
+   "NosStart1": 0.0,
+   "NosStart2": 0.175,
+   "NosStart3": 0.325,
+   "NosStart4": 0.5,
+   "NosStart5": 0.65,
+   "NosStart6": 0.825,
+   "RLBump": 2000.0,
+   "RLForce": 14600.0,
+   "RLLength": 0.2,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 14600.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 3.975,
+   "Ratio2": 3.175,
+   "Ratio3": 2.55,
+   "Ratio4": 2.05,
+   "Ratio5": 1.625,
+   "RatioF": 1.125,
+   "RevCutoffTime": 0.01,
+   "Shift1": 7700.0,
+   "Shift2": 7700.0,
+   "Shift3": 7700.0,
+   "Shift4": 7700.0,
+   "Shift7": 1500.0,
+   "Shift8": 7500.0,
+   "ShiftType": 1,
+   "SlipTorque": 6750.0,
+   "Timing1": 22.2,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 4.6,
+   "Timing2": 27.0,
+   "Timing3": 28.5,
+   "Timing4": 29.5,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": 0.0,
+   "WheelieBarMinimum": -4.0,
+   "WheelieControl1": 0,
+   "WheelieControl2": 0,
+   "WheelieControl3": 0
+  },
+  "validation": {
+   "aiEtMean": 6.0966,
+   "count": 3,
+   "ets": [
+    6.132709980010986,
+    6.16545295715332,
+    6.159918308258057
+   ],
+   "maxLateral": 0.194994122,
+   "passed": true,
+   "wins": 2
+  }
+ }
+}
