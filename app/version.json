@@ -1,6 +1,6 @@
 {
- "version": "1.0.3",
- "zip": "BDR-Setup-Loader-1.0.3.zip",
- "sha": "a80bcb23743b358b42ab5c8bf965245153dda6c87df729e7845d7fe6f3ec1a87",
- "notes": "English interface, modern layout, update button in the top bar"
+ "version": "1.0.4",
+ "zip": "BDR-Setup-Loader-1.0.4.zip",
+ "sha": "b7224bba501a2f62c36989c4d63741391336de9086d042b61cbfa8a9916b1758",
+ "notes": "Fix: app restarts correctly after an update"
 }
