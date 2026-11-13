@@ -1,6 +1,6 @@
 {
- "version": "1.0.5",
- "zip": "BDR-Setup-Loader-1.0.5.zip",
- "sha": "6757c5dfe0425f48e13f01c585694b5a94f8752d63760c39c5c48b3da03408f0",
- "notes": "Works for everyone: public repo, tunes download without a token"
+ "version": "1.0.6",
+ "zip": "BDR-Setup-Loader-1.0.6.zip",
+ "sha": "f891e9199525314c8fcb3ebb8035e3b00d0094fddf7c08fc0a2f64b84dd01c71",
+ "notes": "Update with progress and resume, automatic rollback, plugin version check, one-command release"
 }
