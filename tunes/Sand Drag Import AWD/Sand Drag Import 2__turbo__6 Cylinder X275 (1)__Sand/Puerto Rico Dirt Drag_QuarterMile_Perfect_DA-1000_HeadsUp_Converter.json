@@ -1,0 +1,722 @@
+{
+ "class": "Sand Drag Import AWD",
+ "combo": "Sand Drag Import 2__turbo__6 Cylinder X275 (1)__Sand",
+ "conditions": "Puerto Rico Dirt Drag_QuarterMile_Perfect_DA-1000_HeadsUp_Converter",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 7,
+  "classIndex": 42,
+  "className": "Sand Drag Import AWD",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 98,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "Puerto Rico Dirt Drag",
+  "trackIndex": 9
+ },
+ "fastest": {
+  "aiEt": null,
+  "date": "2026-11-13T12:35:11",
+  "eighth": 0.0,
+  "et": 2.809,
+  "mph": 108.840942,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 10000.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8050.0,
+   "shiftType": 1
+  },
+  "sixty": 1.11485553,
+  "threeThirty": 0.0,
+  "tune": {
+   "Boost1": 1.19,
+   "Boost2": 1.13,
+   "Boost3": 1.3,
+   "Boost4": 1.3,
+   "Boost5": 1.3,
+   "Boost6": 1.3,
+   "Boost7": 1.3,
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.5,
+   "ConverterAmount1": 71.0,
+   "ConverterAmount2": 77.0,
+   "ConverterAmount3": 83.0,
+   "ConverterAmount4": 88.0,
+   "ConverterAmount5": 94.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.8,
+   "ConverterTimer3": 1.6,
+   "ConverterTimer4": 2.4,
+   "ConverterTimer5": 3.2,
+   "ConverterTimer6": 4.0,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.1,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.1,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "GearTimer5": 8.0,
+   "GearTimer6": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 7650.0,
+   "MaxRPM": 10000.0,
+   "RLBump": 2000.0,
+   "RLForce": 10400.0,
+   "RLLength": 0.2,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 10400.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 5.75,
+   "Ratio2": 4.75,
+   "Ratio3": 3.95,
+   "Ratio4": 3.275,
+   "Ratio5": 2.7,
+   "Ratio6": 2.25,
+   "Ratio7": 1.85,
+   "RatioF": 3.425,
+   "RevCutoffTime": 0.01,
+   "Shift1": 8250.0,
+   "Shift2": 8250.0,
+   "Shift3": 8250.0,
+   "Shift4": 8250.0,
+   "Shift5": 8250.0,
+   "Shift6": 8250.0,
+   "Shift7": 1500.0,
+   "Shift8": 8050.0,
+   "ShiftType": 1,
+   "SlipTorque": 2750.0,
+   "Timing1": 25.7,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 9.9,
+   "Timing2": 29.8,
+   "Timing3": 30.0,
+   "Timing4": 30.0,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": null,
+   "count": 3,
+   "ets": [
+    2.8090085983276367,
+    2.8167307376861572,
+    2.805114269256592
+   ],
+   "maxLateral": 0.006976662,
+   "passed": true,
+   "wins": 3
+  }
+ },
+ "identity": {
+  "adder": "turbo",
+  "adderFlags": {
+   "hasWastegate": true,
+   "isNitrous": false,
+   "isSupercharger": false,
+   "isTurbo": true
+  },
+  "availableEngines": [
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 94,
+    "name": "2 Rotor Pro Import Small Block (1)"
+   },
+   {
+    "id": 95,
+    "name": "3 Rotor Pro Import Small Block (1)"
+   },
+   {
+    "id": 96,
+    "name": "4 Rotor Pro Import Small Block (2)"
+   },
+   {
+    "id": 97,
+    "name": "4 Cyl Pro Import Small Block (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   },
+   {
+    "id": 98,
+    "name": "6 Cylinder X275 (1)"
+   }
+  ],
+  "baseMaxRPM": 8000.0,
+  "baseTorque": 800.0,
+  "carClass": "Bracket",
+  "carId": 7,
+  "carName": "Sand Drag Import 2",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Sand",
+  "defaultEngineId": 94,
+  "destroyRPM": 12000.0,
+  "disableConverter": false,
+  "engineCategories": [
+   "SandImportEngine"
+  ],
+  "engineId": 98,
+  "engineName": "6 Cylinder X275 (1)",
+  "gripMultiplier": 0.3,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 10000.0,
+  "powerGainMultiplier": 0.0,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Sand",
+  "useWheelieBar": false,
+  "weight": 1550.0
+ },
+ "winning": {
+  "aiEt": null,
+  "date": "2026-11-13T12:35:11",
+  "eighth": 0.0,
+  "et": 2.809,
+  "mph": 108.840942,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 10000.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8050.0,
+   "shiftType": 1
+  },
+  "sixty": 1.11485553,
+  "threeThirty": 0.0,
+  "tune": {
+   "Boost1": 1.19,
+   "Boost2": 1.13,
+   "Boost3": 1.3,
+   "Boost4": 1.3,
+   "Boost5": 1.3,
+   "Boost6": 1.3,
+   "Boost7": 1.3,
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.5,
+   "ConverterAmount1": 71.0,
+   "ConverterAmount2": 77.0,
+   "ConverterAmount3": 83.0,
+   "ConverterAmount4": 88.0,
+   "ConverterAmount5": 94.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.8,
+   "ConverterTimer3": 1.6,
+   "ConverterTimer4": 2.4,
+   "ConverterTimer5": 3.2,
+   "ConverterTimer6": 4.0,
+   "Drivetrain": 1,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.1,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.1,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "GearTimer5": 8.0,
+   "GearTimer6": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 7650.0,
+   "MaxRPM": 10000.0,
+   "RLBump": 2000.0,
+   "RLForce": 10400.0,
+   "RLLength": 0.2,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 10400.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 5.75,
+   "Ratio2": 4.75,
+   "Ratio3": 3.95,
+   "Ratio4": 3.275,
+   "Ratio5": 2.7,
+   "Ratio6": 2.25,
+   "Ratio7": 1.85,
+   "RatioF": 3.425,
+   "RevCutoffTime": 0.01,
+   "Shift1": 8250.0,
+   "Shift2": 8250.0,
+   "Shift3": 8250.0,
+   "Shift4": 8250.0,
+   "Shift5": 8250.0,
+   "Shift6": 8250.0,
+   "Shift7": 1500.0,
+   "Shift8": 8050.0,
+   "ShiftType": 1,
+   "SlipTorque": 2750.0,
+   "Timing1": 25.7,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 9.9,
+   "Timing2": 29.8,
+   "Timing3": 30.0,
+   "Timing4": 30.0,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": null,
+   "count": 3,
+   "ets": [
+    2.8090085983276367,
+    2.8167307376861572,
+    2.805114269256592
+   ],
+   "maxLateral": 0.006976662,
+   "passed": true,
+   "wins": 3
+  }
+ }
+}
