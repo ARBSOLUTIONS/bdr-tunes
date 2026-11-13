@@ -1,0 +1,347 @@
+{
+ "class": "True 10.5",
+ "combo": "Outlaw 1__blower__True 10.5 Blower__Slick105",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 12,
+  "classIndex": 4,
+  "className": "True 10.5",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 134,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 6.6852240562438965,
+  "date": "2026-11-13T09:45:23",
+  "eighth": 4.27703047,
+  "et": 6.7131,
+  "mph": 200.902817,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 9550.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 9050.0,
+   "shiftType": 1
+  },
+  "sixty": 1.05660939,
+  "threeThirty": 2.84682512,
+  "tune": {
+   "BOD": 1.3,
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.5,
+   "ConverterAmount1": 88.0,
+   "ConverterAmount2": 90.0,
+   "ConverterAmount3": 93.0,
+   "ConverterAmount4": 95.0,
+   "ConverterAmount5": 98.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.65,
+   "ConverterTimer3": 1.325,
+   "ConverterTimer4": 1.975,
+   "ConverterTimer5": 2.625,
+   "ConverterTimer6": 3.3,
+   "Drivetrain": 0,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12000.0,
+   "FLLength": 0.19,
+   "FLRebound": 5000.0,
+   "FRBump": 2000.0,
+   "FRForce": 12000.0,
+   "FRLength": 0.19,
+   "FRRebound": 5000.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 5500.0,
+   "MaxRPM": 9550.0,
+   "RLBump": 2000.0,
+   "RLForce": 13800.0,
+   "RLLength": 0.1,
+   "RLRebound": 5000.0,
+   "RRBump": 2000.0,
+   "RRForce": 13800.0,
+   "RRLength": 0.1,
+   "RRRebound": 5000.0,
+   "Ratio1": 5.0,
+   "Ratio2": 3.95,
+   "Ratio3": 3.1,
+   "Ratio4": 2.45,
+   "Ratio5": 1.925,
+   "RatioF": 1.175,
+   "RevCutoffTime": 0.01,
+   "Shift1": 9250.0,
+   "Shift2": 9250.0,
+   "Shift3": 9250.0,
+   "Shift4": 9250.0,
+   "Shift7": 1500.0,
+   "Shift8": 9050.0,
+   "ShiftType": 1,
+   "SlipTorque": 6450.0,
+   "Timing1": 15.5,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 1.0,
+   "Timing2": 17.6,
+   "Timing3": 20.8,
+   "Timing4": 24.6,
+   "Timing5": 28.9,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": 6.6864,
+   "count": 3,
+   "ets": [
+    6.707376480102539,
+    6.713134765625,
+    6.827255725860596
+   ],
+   "maxLateral": 0.0313663557,
+   "passed": true,
+   "wins": 1
+  }
+ },
+ "identity": {
+  "adder": "blower",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": false,
+   "isSupercharger": true,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 118,
+    "name": "All Motor"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 11,
+    "name": "Pro 275 Twin Turbo"
+   },
+   {
+    "id": 12,
+    "name": "Pro 275 Centrifugal"
+   },
+   {
+    "id": 13,
+    "name": "Pro 275 Nitrous"
+   },
+   {
+    "id": 14,
+    "name": "X 275 Twin Turbo"
+   },
+   {
+    "id": 15,
+    "name": "X 275 Single Turbo"
+   },
+   {
+    "id": 16,
+    "name": "X 275 Centrifugal"
+   },
+   {
+    "id": 17,
+    "name": "X 275 Nitrous"
+   },
+   {
+    "id": 18,
+    "name": "X 275 Blower"
+   },
+   {
+    "id": 19,
+    "name": "X275 Diesel"
+   },
+   {
+    "id": 20,
+    "name": "Outlaw Diesel"
+   },
+   {
+    "id": 21,
+    "name": "Pro Street Blower (1)"
+   },
+   {
+    "id": 22,
+    "name": "Pro Street Twin Turbo (1)"
+   },
+   {
+    "id": 23,
+    "name": "Pro Street Centrifugal (1)"
+   },
+   {
+    "id": 24,
+    "name": "Pro Street Nitrous (1)"
+   },
+   {
+    "id": 25,
+    "name": "Street Single Turbo (2)"
+   },
+   {
+    "id": 26,
+    "name": "Street Nitrous (2)"
+   },
+   {
+    "id": 27,
+    "name": "Street Centrifugal (2)"
+   },
+   {
+    "id": 28,
+    "name": "Limited Single Turbo (1)"
+   },
+   {
+    "id": 29,
+    "name": "Limited Nitrous (1)"
+   },
+   {
+    "id": 30,
+    "name": "Limited Centrifugal (1)"
+   },
+   {
+    "id": 31,
+    "name": "Factory X"
+   },
+   {
+    "id": 125,
+    "name": "Outlaw 275 Blower (1)"
+   },
+   {
+    "id": 131,
+    "name": "Outlaw 275 Nitrous (1)"
+   },
+   {
+    "id": 127,
+    "name": "Outlaw 275 Twin Turbo (1)"
+   },
+   {
+    "id": 129,
+    "name": "Outlaw 275 Centrifugal (1)"
+   },
+   {
+    "id": 134,
+    "name": "True 10.5 Blower"
+   },
+   {
+    "id": 135,
+    "name": "True 10.5 Twin Turbo (2)"
+   },
+   {
+    "id": 137,
+    "name": "True 10.5 Nitrous (2)"
+   },
+   {
+    "id": 136,
+    "name": "True 10.5 Centrifugal (2)"
+   }
+  ],
+  "baseMaxRPM": 8000.0,
+  "baseTorque": 1505.0,
+  "carClass": "Outlaw",
+  "carId": 12,
+  "carName": "Outlaw 1",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Slick105",
+  "defaultEngineId": 21,
+  "destroyRPM": 10000.0,
+  "disableConverter": true,
+  "engineCategories": [
+   "OutlawEngine"
+  ],
+  "engineId": 134,
+  "engineName": "True 10.5 Blower",
+  "gripMultiplier": 0.4,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 9000.0,
+  "powerGainMultiplier": 1.0,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Slick105",
+  "useWheelieBar": false,
+  "weight": 1285.0
+ },
+ "winning": null
+}

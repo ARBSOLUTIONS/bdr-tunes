@@ -1,0 +1,706 @@
+{
+ "class": "ATV",
+ "combo": "ATV 1__na__ATVNoBarsEngine__Radial235",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 105,
+  "classIndex": 26,
+  "className": "ATV",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 110,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": null,
+  "date": "2026-11-13T12:00:15",
+  "eighth": 0.0,
+  "et": 10.0573,
+  "mph": 100.76059,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 9200.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 7750.0,
+   "shiftType": 1
+  },
+  "sixty": 0.0,
+  "threeThirty": 0.0,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.5,
+   "ConverterAmount1": 88.0,
+   "ConverterAmount2": 90.0,
+   "ConverterAmount3": 93.0,
+   "ConverterAmount4": 95.0,
+   "ConverterAmount5": 98.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.475,
+   "ConverterTimer3": 0.95,
+   "ConverterTimer4": 1.425,
+   "ConverterTimer5": 1.9,
+   "ConverterTimer6": 2.375,
+   "Drivetrain": 0,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 5200.0,
+   "MaxRPM": 9200.0,
+   "Ratio1": 5.725,
+   "Ratio2": 4.625,
+   "Ratio3": 3.75,
+   "Ratio4": 3.05,
+   "Ratio5": 2.475,
+   "RatioF": 1.0,
+   "RevCutoffTime": 0.01,
+   "Shift8": 7750.0,
+   "ShiftType": 0,
+   "SlipTorque": 8000.0,
+   "Timing1": 30.0,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 1.0,
+   "Timing2": 30.0,
+   "Timing3": 30.0,
+   "Timing4": 30.0,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": 8.0386,
+   "count": 3,
+   "ets": [
+    10.055341720581055,
+    10.241002082824707,
+    10.05730152130127
+   ],
+   "maxLateral": 0.7058081,
+   "passed": true,
+   "wins": 2
+  }
+ },
+ "identity": {
+  "adder": "na",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": false,
+   "isSupercharger": false,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 110,
+    "name": "ATVNoBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   },
+   {
+    "id": 112,
+    "name": "ATVSandNoBarsEngine"
+   },
+   {
+    "id": 113,
+    "name": "ATVSandBarsEngine"
+   },
+   {
+    "id": 111,
+    "name": "ATVBarsEngine"
+   }
+  ],
+  "baseMaxRPM": 5000.0,
+  "baseTorque": 650.0,
+  "carClass": "Bracket",
+  "carId": 105,
+  "carName": "ATV 1",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Radial235",
+  "defaultEngineId": 111,
+  "destroyRPM": 10000.0,
+  "disableConverter": true,
+  "engineCategories": [
+   "ATVEngine"
+  ],
+  "engineId": 110,
+  "engineName": "ATVNoBarsEngine",
+  "gripMultiplier": 2.0,
+  "ignoreSuspension": true,
+  "isRadial": false,
+  "manualOnly": true,
+  "maxSafeRPM": 9000.0,
+  "powerGainMultiplier": 0.8,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Radial235",
+  "useWheelieBar": false,
+  "weight": 700.0
+ },
+ "winning": {
+  "aiEt": null,
+  "date": "2026-11-13T12:00:15",
+  "eighth": 0.0,
+  "et": 10.0573,
+  "mph": 100.76059,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 9200.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 7750.0,
+   "shiftType": 1
+  },
+  "sixty": 0.0,
+  "threeThirty": 0.0,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": 0.5,
+   "ConverterAmount1": 88.0,
+   "ConverterAmount2": 90.0,
+   "ConverterAmount3": 93.0,
+   "ConverterAmount4": 95.0,
+   "ConverterAmount5": 98.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.475,
+   "ConverterTimer3": 0.95,
+   "ConverterTimer4": 1.425,
+   "ConverterTimer5": 1.9,
+   "ConverterTimer6": 2.375,
+   "Drivetrain": 0,
+   "EngagementRPM": 1150.0,
+   "EngagementSpeed": 0.55,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 5200.0,
+   "MaxRPM": 9200.0,
+   "Ratio1": 5.725,
+   "Ratio2": 4.625,
+   "Ratio3": 3.75,
+   "Ratio4": 3.05,
+   "Ratio5": 2.475,
+   "RatioF": 1.0,
+   "RevCutoffTime": 0.01,
+   "Shift8": 7750.0,
+   "ShiftType": 0,
+   "SlipTorque": 8000.0,
+   "Timing1": 30.0,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 1.0,
+   "Timing2": 30.0,
+   "Timing3": 30.0,
+   "Timing4": 30.0,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 0.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": 8.0386,
+   "count": 3,
+   "ets": [
+    10.055341720581055,
+    10.241002082824707,
+    10.05730152130127
+   ],
+   "maxLateral": 0.7058081,
+   "passed": true,
+   "wins": 2
+  }
+ }
+}
