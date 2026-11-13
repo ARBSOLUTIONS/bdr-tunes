@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:05:46",
+ "updated": "2026-11-13T22:53:09",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
@@ -884,6 +884,24 @@
    "kind": "winning"
   },
   {
+   "path": "tunes/Pro Mod/Pro Mod 1__blower__Pro Mod Blower__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "4f61e00b239615a0",
+   "class": "Pro Mod",
+   "car": "Pro Mod 1",
+   "engine": "Pro Mod Blower",
+   "engineId": 0,
+   "tire": "Slick36",
+   "carId": 9,
+   "adder": "blower",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.6143,
+   "mph": 249.356018,
+   "sixty": 0.9143886,
+   "date": "2026-11-13T22:50:50",
+   "kind": "fastest"
+  },
+  {
    "path": "tunes/Pro Mod/Pro Mod 1__blower__Pro Mod Blower__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
    "sha": "beb3140ea75b8363",
    "class": "Pro Mod",
@@ -936,6 +954,24 @@
    "sixty": 0.904591858,
    "date": "2026-11-13T06:29:45",
    "kind": "fastest"
+  },
+  {
+   "path": "tunes/Pro Mod/Pro Mod 1__turbo__Pro Mod Turbo__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "07a5799cc726ed08",
+   "class": "Pro Mod",
+   "car": "Pro Mod 1",
+   "engine": "Pro Mod Turbo",
+   "engineId": 1,
+   "tire": "Slick36",
+   "carId": 9,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.5738,
+   "mph": 263.0195,
+   "sixty": 0.965378344,
+   "date": "2026-11-13T22:52:58",
+   "kind": "winning"
   },
   {
    "path": "tunes/Pro Mod/Pro Mod 1__turbo__Pro Mod Turbo__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
@@ -2148,6 +2184,7 @@
   "7_97": "3f5501a4e96e39e3",
   "7_98": "ef7df02f59a4f80e",
   "9_0": "2a8c69e7f105b1f3",
+  "9_1": "93fb4d01eb700955",
   "9_124": "0fa1858d252ac1ae",
   "9_126": "b595c4cb60f90eeb",
   "9_128": "b7add3b79366513a",
