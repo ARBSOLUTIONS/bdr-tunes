@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:43:36",
+ "updated": "2026-11-13T19:50:02",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
@@ -1946,6 +1946,24 @@
    "kind": "fastest"
   },
   {
+   "path": "tunes/X275/Outlaw 1__centrifugal__X 275 Centrifugal__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
+   "sha": "28f166c7765f86bc",
+   "class": "X275",
+   "car": "Outlaw 1",
+   "engine": "X 275 Centrifugal",
+   "engineId": 16,
+   "tire": "Radial275",
+   "carId": 12,
+   "adder": "centrifugal",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Converter",
+   "et": 7.178,
+   "mph": 184.608688,
+   "sixty": 0.9708727,
+   "date": "2026-11-13T19:03:19",
+   "kind": "winning"
+  },
+  {
    "path": "tunes/X275/Outlaw 1__nitrous__X 275 Nitrous__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
    "sha": "4ccda342b9c0ecee",
    "class": "X275",
@@ -2028,6 +2046,7 @@
   "12_135": "bfc0ef8a31ad5710",
   "12_136": "72630c709ea4def3",
   "12_137": "bca6909241744af5",
+  "12_16": "58856724d2c7393b",
   "12_17": "c679faec6367e60f",
   "12_18": "854f66641c5a7ca2",
   "12_20": "aff760718189e958",
