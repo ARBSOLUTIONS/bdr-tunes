@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:31:34",
+ "updated": "2026-11-13T05:43:05",
  "tunes": [
   {
    "path": "tunes/Outlaw Pro Mod/Pro Mod 1__blower__Pro Mod Blower (1)__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -91,5 +91,11 @@
    "date": "2026-11-13T00:13:48",
    "kind": "winning"
   }
- ]
+ ],
+ "covers": {
+  "12_17": "c679faec6367e60f",
+  "56_0": "5200437e9bd20b8a",
+  "9_0": "2a8c69e7f105b1f3",
+  "9_84": "3b4771e0a9d8139f"
+ }
 }
