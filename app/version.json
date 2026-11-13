@@ -1,6 +1,6 @@
 {
- "version": "1.0.4",
- "zip": "BDR-Setup-Loader-1.0.4.zip",
- "sha": "b7224bba501a2f62c36989c4d63741391336de9086d042b61cbfa8a9916b1758",
- "notes": "Fix: app restarts correctly after an update"
+ "version": "1.0.5",
+ "zip": "BDR-Setup-Loader-1.0.5.zip",
+ "sha": "6757c5dfe0425f48e13f01c585694b5a94f8752d63760c39c5c48b3da03408f0",
+ "notes": "Works for everyone: public repo, tunes download without a token"
 }
