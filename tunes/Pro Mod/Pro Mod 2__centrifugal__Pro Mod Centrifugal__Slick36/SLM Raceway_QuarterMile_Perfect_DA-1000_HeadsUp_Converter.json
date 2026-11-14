@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": 5.35115385055542,
-  "date": "2026-11-14T04:00:45",
-  "eighth": 3.60013342,
-  "et": 5.5588,
-  "mph": 256.007233,
+  "aiEt": null,
+  "date": "2026-11-14T05:23:58",
+  "eighth": 3.5934155,
+  "et": 5.5454,
+  "mph": 255.605576,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 11850.0,
@@ -47,18 +47,18 @@
    "shiftLightRPM": 10850.0,
    "shiftType": 1
   },
-  "sixty": 0.907586634,
-  "threeThirty": 2.408035,
+  "sixty": 0.9078847,
+  "threeThirty": 2.407381,
   "tune": {
    "BOD": 1.3,
    "BumpAggresive": 0.53,
    "BumpBox": 0.12,
    "COM": 0.18,
    "ConverterAmount1": 90.0,
-   "ConverterAmount2": 85.0,
-   "ConverterAmount3": 80.0,
-   "ConverterAmount4": 75.0,
-   "ConverterAmount5": 70.0,
+   "ConverterAmount2": 86.0,
+   "ConverterAmount3": 82.0,
+   "ConverterAmount4": 78.0,
+   "ConverterAmount5": 74.0,
    "ConverterAmount6": 70.0,
    "ConverterTimer1": 0.0,
    "ConverterTimer2": 0.75,
@@ -97,7 +97,7 @@
    "Ratio3": 2.075,
    "Ratio4": 1.6,
    "Ratio5": 1.475,
-   "RatioF": 2.425,
+   "RatioF": 2.55,
    "RevCutoffTime": 0.01,
    "Shift1": 11300.0,
    "Shift2": 11750.0,
@@ -136,18 +136,18 @@
    "WheelieControl3": 3
   },
   "validation": {
-   "aiEtMean": 5.3385,
+   "aiEtMean": 5.2295,
    "count": 5,
    "ets": [
-    5.5587615966796875,
-    5.557976722717285,
-    5.55885124206543,
-    5.559043884277344,
-    5.558255672454834
+    5.545077800750732,
+    5.545477390289307,
+    5.5455641746521,
+    5.545429706573486,
+    5.5454325675964355
    ],
-   "maxLateral": 0.5592545,
+   "maxLateral": 0.354152,
    "passed": true,
-   "wins": 4
+   "wins": 5
   }
  },
  "identity": {
@@ -260,11 +260,11 @@
   "weight": 1493.0
  },
  "winning": {
-  "aiEt": 5.35115385055542,
-  "date": "2026-11-14T04:00:45",
-  "eighth": 3.60013342,
-  "et": 5.5588,
-  "mph": 256.007233,
+  "aiEt": null,
+  "date": "2026-11-14T05:23:58",
+  "eighth": 3.5934155,
+  "et": 5.5454,
+  "mph": 255.605576,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 11850.0,
@@ -272,18 +272,18 @@
    "shiftLightRPM": 10850.0,
    "shiftType": 1
   },
-  "sixty": 0.907586634,
-  "threeThirty": 2.408035,
+  "sixty": 0.9078847,
+  "threeThirty": 2.407381,
   "tune": {
    "BOD": 1.3,
    "BumpAggresive": 0.53,
    "BumpBox": 0.12,
    "COM": 0.18,
    "ConverterAmount1": 90.0,
-   "ConverterAmount2": 85.0,
-   "ConverterAmount3": 80.0,
-   "ConverterAmount4": 75.0,
-   "ConverterAmount5": 70.0,
+   "ConverterAmount2": 86.0,
+   "ConverterAmount3": 82.0,
+   "ConverterAmount4": 78.0,
+   "ConverterAmount5": 74.0,
    "ConverterAmount6": 70.0,
    "ConverterTimer1": 0.0,
    "ConverterTimer2": 0.75,
@@ -322,7 +322,7 @@
    "Ratio3": 2.075,
    "Ratio4": 1.6,
    "Ratio5": 1.475,
-   "RatioF": 2.425,
+   "RatioF": 2.55,
    "RevCutoffTime": 0.01,
    "Shift1": 11300.0,
    "Shift2": 11750.0,
@@ -361,18 +361,18 @@
    "WheelieControl3": 3
   },
   "validation": {
-   "aiEtMean": 5.3385,
+   "aiEtMean": 5.2295,
    "count": 5,
    "ets": [
-    5.5587615966796875,
-    5.557976722717285,
-    5.55885124206543,
-    5.559043884277344,
-    5.558255672454834
+    5.545077800750732,
+    5.545477390289307,
+    5.5455641746521,
+    5.545429706573486,
+    5.5454325675964355
    ],
-   "maxLateral": 0.5592545,
+   "maxLateral": 0.354152,
    "passed": true,
-   "wins": 4
+   "wins": 5
   }
  }
 }
