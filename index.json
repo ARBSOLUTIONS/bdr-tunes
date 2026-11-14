@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:51:30",
+ "updated": "2026-11-14T06:47:23",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -327,7 +327,7 @@
   },
   {
    "path": "tunes/Limited Street/Outlaw 1__centrifugal__Limited Centrifugal (1)__Radial235/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
-   "sha": "3d666470c77224b2",
+   "sha": "7cb346838d70521d",
    "class": "Limited Street",
    "car": "Outlaw 1",
    "engine": "Limited Centrifugal (1)",
@@ -337,11 +337,11 @@
    "adder": "centrifugal",
    "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
    "dt": "Converter",
-   "et": 7.8899,
-   "mph": 158.2388,
-   "sixty": 1.15038514,
-   "date": "2026-11-13T11:02:02",
-   "kind": "fastest"
+   "et": 7.5286,
+   "mph": 163.3025,
+   "sixty": 1.06143665,
+   "date": "2026-11-14T06:47:22",
+   "kind": "winning"
   },
   {
    "path": "tunes/Limited Street/Outlaw 1__nitrous__Limited Nitrous (1)__Radial235/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
