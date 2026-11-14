@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:34:46",
+ "updated": "2026-11-14T21:38:29",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2019,7 +2019,7 @@
   },
   {
    "path": "tunes/Sand ATV/ATV 1__na__ATVSandNoBarsEngine__Sand/Puerto Rico Dirt Drag_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "3e773f1a707dc01b",
+   "sha": "56cc51bbedf104a7",
    "class": "Sand ATV",
    "car": "ATV 1",
    "engine": "ATVSandNoBarsEngine",
@@ -2029,10 +2029,10 @@
    "adder": "na",
    "cond": "Puerto Rico Dirt Drag_QuarterMile_Perfect_DA-1000_HeadsUp",
    "dt": "Clutch",
-   "et": 3.7409,
-   "mph": 83.64964,
-   "sixty": 1.47963488,
-   "date": "2026-11-13T12:41:06",
+   "et": 3.7048,
+   "mph": 85.96368,
+   "sixty": 1.47721589,
+   "date": "2026-11-14T21:38:28",
    "kind": "fastest"
   },
   {

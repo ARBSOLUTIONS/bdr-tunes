@@ -35,19 +35,19 @@
   "trackIndex": 9
  },
  "fastest": {
-  "aiEt": 3.5187342166900635,
-  "date": "2026-11-13T12:41:06",
+  "aiEt": 3.511911392211914,
+  "date": "2026-11-14T21:38:28",
   "eighth": 0.0,
-  "et": 3.7409,
-  "mph": 83.64964,
+  "et": 3.7048,
+  "mph": 85.96368,
   "shifting": {
-   "manualShiftAt": null,
+   "manualShiftAt": 8722.0,
    "maxRPM": 9800.0,
-   "mode": "auto at shift RPMs",
+   "mode": "manual (player shifts; harness shifts at shift light/limiter)",
    "shiftLightRPM": 8900.0,
-   "shiftType": 1
+   "shiftType": 0
   },
-  "sixty": 1.47963488,
+  "sixty": 1.47721589,
   "threeThirty": 0.0,
   "tune": {
    "BumpAggresive": 0.5,
@@ -108,14 +108,16 @@
    "WheelieControl3": 7
   },
   "validation": {
-   "aiEtMean": 3.5186,
-   "count": 3,
+   "aiEtMean": 3.5173,
+   "count": 5,
    "ets": [
-    3.741835594177246,
-    3.7409462928771973,
-    3.740748882293701
+    3.7047698497772217,
+    3.7045793533325195,
+    3.711745500564575,
+    3.704869031906128,
+    3.704577684402466
    ],
-   "maxLateral": 0.7439845,
+   "maxLateral": 1.04047692,
    "passed": true,
    "wins": 0
   }
