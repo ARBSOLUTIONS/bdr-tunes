@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:30:54",
+ "updated": "2026-11-14T21:34:46",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2105,6 +2105,24 @@
    "mph": 110.093422,
    "sixty": 1.11677027,
    "date": "2026-11-13T12:40:06",
+   "kind": "winning"
+  },
+  {
+   "path": "tunes/Sand Drag Import AWD/Sand Drag Import 2__turbo__6 Cylinder X275 (1)__Sand/Puerto Rico Dirt Drag_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "731dcdfec99a2a38",
+   "class": "Sand Drag Import AWD",
+   "car": "Sand Drag Import 2",
+   "engine": "6 Cylinder X275 (1)",
+   "engineId": 98,
+   "tire": "Sand",
+   "carId": 7,
+   "adder": "turbo",
+   "cond": "Puerto Rico Dirt Drag_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 2.7738,
+   "mph": 106.925079,
+   "sixty": 1.07191694,
+   "date": "2026-11-14T21:34:44",
    "kind": "winning"
   },
   {
