@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": 7.376094818115234,
-  "date": "2026-11-13T11:10:43",
-  "eighth": 5.04198647,
-  "et": 8.0256,
-  "mph": 157.1782,
+  "aiEt": 7.957901477813721,
+  "date": "2026-11-14T22:44:54",
+  "eighth": 4.948924,
+  "et": 7.9401,
+  "mph": 157.123322,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 8400.0,
@@ -47,8 +47,8 @@
    "shiftLightRPM": 8150.0,
    "shiftType": 1
   },
-  "sixty": 0.0,
-  "threeThirty": 3.345574,
+  "sixty": 1.28949,
+  "threeThirty": 3.276327,
   "tune": {
    "BumpAggresive": 0.5,
    "BumpBox": 0.1,
@@ -151,16 +151,18 @@
    "WheelieControl3": 12
   },
   "validation": {
-   "aiEtMean": 7.3761,
-   "count": 3,
+   "aiEtMean": 7.6682,
+   "count": 5,
    "ets": [
-    8.025582313537598,
-    8.038551330566406,
-    8.012740135192871
+    7.923191547393799,
+    8.094832420349121,
+    8.062299728393555,
+    7.922698497772217,
+    7.940124988555908
    ],
-   "maxLateral": 0.749081135,
+   "maxLateral": 0.4101633,
    "passed": true,
-   "wins": 3
+   "wins": 4
   }
  },
  "identity": {
@@ -393,11 +395,11 @@
   "weight": 1325.0
  },
  "winning": {
-  "aiEt": 7.376094818115234,
-  "date": "2026-11-13T11:10:43",
-  "eighth": 5.04198647,
-  "et": 8.0256,
-  "mph": 157.1782,
+  "aiEt": 7.957901477813721,
+  "date": "2026-11-14T22:44:54",
+  "eighth": 4.948924,
+  "et": 7.9401,
+  "mph": 157.123322,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 8400.0,
@@ -405,8 +407,8 @@
    "shiftLightRPM": 8150.0,
    "shiftType": 1
   },
-  "sixty": 0.0,
-  "threeThirty": 3.345574,
+  "sixty": 1.28949,
+  "threeThirty": 3.276327,
   "tune": {
    "BumpAggresive": 0.5,
    "BumpBox": 0.1,
@@ -509,16 +511,18 @@
    "WheelieControl3": 12
   },
   "validation": {
-   "aiEtMean": 7.3761,
-   "count": 3,
+   "aiEtMean": 7.6682,
+   "count": 5,
    "ets": [
-    8.025582313537598,
-    8.038551330566406,
-    8.012740135192871
+    7.923191547393799,
+    8.094832420349121,
+    8.062299728393555,
+    7.922698497772217,
+    7.940124988555908
    ],
-   "maxLateral": 0.749081135,
+   "maxLateral": 0.4101633,
    "passed": true,
-   "wins": 3
+   "wins": 4
   }
  }
 }

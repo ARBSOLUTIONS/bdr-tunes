@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:39:54",
+ "updated": "2026-11-14T22:44:56",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2379,7 +2379,7 @@
   },
   {
    "path": "tunes/Street Import/Old School Import 1__nitrous__2 Rotor Pro Import Small Block (1)__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "0f1783d250af20a2",
+   "sha": "c2429cf7a7662bd4",
    "class": "Street Import",
    "car": "Old School Import 1",
    "engine": "2 Rotor Pro Import Small Block (1)",
@@ -2389,10 +2389,10 @@
    "adder": "nitrous",
    "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
    "dt": "Clutch",
-   "et": 8.0256,
-   "mph": 157.1782,
-   "sixty": 0.0,
-   "date": "2026-11-13T11:10:43",
+   "et": 7.9401,
+   "mph": 157.123322,
+   "sixty": 1.28949,
+   "date": "2026-11-14T22:44:54",
    "kind": "winning"
   },
   {
