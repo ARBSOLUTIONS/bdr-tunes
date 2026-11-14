@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:44:56",
+ "updated": "2026-11-14T23:04:16",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -291,7 +291,7 @@
   },
   {
    "path": "tunes/Grudge Bike/Grudge Bike 2__turbo__GrudgeTurboEngine__Radial235/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "51c4370e2bc0f0c8",
+   "sha": "354bab3f2074a58d",
    "class": "Grudge Bike",
    "car": "Grudge Bike 2",
    "engine": "GrudgeTurboEngine",
@@ -301,10 +301,10 @@
    "adder": "turbo",
    "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
    "dt": "Clutch",
-   "et": 6.4853,
-   "mph": 218.30925,
-   "sixty": 1.0316937,
-   "date": "2026-11-14T21:30:52",
+   "et": 6.4849,
+   "mph": 218.304062,
+   "sixty": 1.02785587,
+   "date": "2026-11-14T23:04:15",
    "kind": "winning"
   },
   {
