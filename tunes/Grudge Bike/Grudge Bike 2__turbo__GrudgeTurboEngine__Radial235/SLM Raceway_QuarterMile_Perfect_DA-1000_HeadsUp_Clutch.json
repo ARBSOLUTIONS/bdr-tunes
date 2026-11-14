@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": null,
-  "date": "2026-11-13T08:26:15",
-  "eighth": 4.232295,
-  "et": 6.5282,
-  "mph": 218.327255,
+  "aiEt": 6.473560810089111,
+  "date": "2026-11-14T21:30:52",
+  "eighth": 4.19244957,
+  "et": 6.4853,
+  "mph": 218.30925,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 10450.0,
@@ -47,8 +47,8 @@
    "shiftLightRPM": 8450.0,
    "shiftType": 1
   },
-  "sixty": 1.06920171,
-  "threeThirty": 2.8222127,
+  "sixty": 1.0316937,
+  "threeThirty": 2.782675,
   "tune": {
    "Boost1": 0.98,
    "Boost2": 1.24,
@@ -122,14 +122,16 @@
    "WheelieControl3": 7
   },
   "validation": {
-   "aiEtMean": null,
-   "count": 3,
+   "aiEtMean": 6.4781,
+   "count": 5,
    "ets": [
-    6.4990363121032715,
-    6.541574954986572,
-    6.528154373168945
+    6.48468017578125,
+    6.485586166381836,
+    6.4832987785339355,
+    6.4853081703186035,
+    6.486713409423828
    ],
-   "maxLateral": 0.07868336,
+   "maxLateral": 0.08718343,
    "passed": true,
    "wins": 3
   }
@@ -409,11 +411,11 @@
   "weight": 400.0
  },
  "winning": {
-  "aiEt": null,
-  "date": "2026-11-13T08:26:15",
-  "eighth": 4.232295,
-  "et": 6.5282,
-  "mph": 218.327255,
+  "aiEt": 6.473560810089111,
+  "date": "2026-11-14T21:30:52",
+  "eighth": 4.19244957,
+  "et": 6.4853,
+  "mph": 218.30925,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 10450.0,
@@ -421,8 +423,8 @@
    "shiftLightRPM": 8450.0,
    "shiftType": 1
   },
-  "sixty": 1.06920171,
-  "threeThirty": 2.8222127,
+  "sixty": 1.0316937,
+  "threeThirty": 2.782675,
   "tune": {
    "Boost1": 0.98,
    "Boost2": 1.24,
@@ -496,14 +498,16 @@
    "WheelieControl3": 7
   },
   "validation": {
-   "aiEtMean": null,
-   "count": 3,
+   "aiEtMean": 6.4781,
+   "count": 5,
    "ets": [
-    6.4990363121032715,
-    6.541574954986572,
-    6.528154373168945
+    6.48468017578125,
+    6.485586166381836,
+    6.4832987785339355,
+    6.4853081703186035,
+    6.486713409423828
    ],
-   "maxLateral": 0.07868336,
+   "maxLateral": 0.08718343,
    "passed": true,
    "wins": 3
   }
