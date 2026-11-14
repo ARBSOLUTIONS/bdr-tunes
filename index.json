@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:29:10",
+ "updated": "2026-11-14T22:39:54",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1695,7 +1695,7 @@
   },
   {
    "path": "tunes/Pro Stock/Pro Stock 1__na__Engine Pro Stock__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "abf5cf11d953f4e3",
+   "sha": "9c75e9fac067c87a",
    "class": "Pro Stock",
    "car": "Pro Stock 1",
    "engine": "Engine Pro Stock",
