@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:41:02",
+ "updated": "2026-11-15T08:03:23",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1605,7 +1605,7 @@
   },
   {
    "path": "tunes/Pro Mod/Pro Mod 2__blower__Pro Mod Blower__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
-   "sha": "b84c75a475727ad4",
+   "sha": "d83890eff40e8101",
    "class": "Pro Mod",
    "car": "Pro Mod 2",
    "engine": "Pro Mod Blower",

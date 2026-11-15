@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": 5.5685296058654785,
-  "date": "2026-11-15T07:41:01",
-  "eighth": 3.59545422,
-  "et": 5.5683,
-  "mph": 253.493134,
+  "aiEt": 5.5674567222595215,
+  "date": "2026-11-15T08:03:22",
+  "eighth": 3.593984,
+  "et": 5.5673,
+  "mph": 253.508179,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 11850.0,
@@ -47,8 +47,8 @@
    "shiftLightRPM": 11400.0,
    "shiftType": 1
   },
-  "sixty": 0.904083431,
-  "threeThirty": 2.40004182,
+  "sixty": 0.902975738,
+  "threeThirty": 2.398038,
   "tune": {
    "BOD": 1.3,
    "BumpAggresive": 0.5,
@@ -62,7 +62,7 @@
    "ConverterAmount6": 70.0,
    "ConverterTimer1": 0.0,
    "ConverterTimer2": 0.7,
-   "ConverterTimer3": 1.4,
+   "ConverterTimer3": 1.275,
    "ConverterTimer4": 2.1,
    "ConverterTimer5": 2.775,
    "ConverterTimer6": 3.475,
@@ -136,18 +136,18 @@
    "WheelieControl3": 3
   },
   "validation": {
-   "aiEtMean": 5.6214,
+   "aiEtMean": 5.6218,
    "count": 5,
    "ets": [
-    5.567549705505371,
-    5.568142890930176,
-    5.6069254875183105,
-    5.594875812530518,
-    5.56829309463501
+    5.567276954650879,
+    5.56834602355957,
+    5.567300319671631,
+    5.566323280334473,
+    5.572793006896973
    ],
-   "maxLateral": 1.67005408,
+   "maxLateral": 0.7765557,
    "passed": true,
-   "wins": 5
+   "wins": 2
   }
  },
  "identity": {
