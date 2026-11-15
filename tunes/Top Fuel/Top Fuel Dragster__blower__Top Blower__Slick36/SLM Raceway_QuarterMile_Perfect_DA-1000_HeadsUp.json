@@ -1,0 +1,432 @@
+{
+ "class": "Top Fuel",
+ "combo": "Top Fuel Dragster__blower__Top Blower__Slick36",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 53,
+  "classIndex": 39,
+  "className": "Top Fuel",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "100 (Pro+)",
+   "powerScale": 1.06,
+   "reactionMean": 0.015,
+   "reactionSpread": 0.008,
+   "redLightChance": 0.01,
+   "rung": -1
+  },
+  "difficultyLevel": 100.0,
+  "engineId": 55,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 4.492520809173584,
+  "date": "2026-11-15T01:06:49",
+  "eighth": 3.02915573,
+  "et": 4.5373,
+  "mph": 336.578339,
+  "shifting": {
+   "manualShiftAt": 8526.0,
+   "maxRPM": 9000.0,
+   "mode": "manual (player shifts; harness shifts at shift light/limiter)",
+   "shiftLightRPM": 8700.0,
+   "shiftType": 0
+  },
+  "sixty": 0.8432009,
+  "threeThirty": 2.08096313,
+  "tune": {
+   "Drivetrain": 1,
+   "NitroBallast": 12.0,
+   "NitroClutchLaunch": 30.0,
+   "NitroCounterweight": 140.0,
+   "NitroFrontWing": 4.0,
+   "NitroFuelPump": 99.5,
+   "NitroFuelTimer": 0.9,
+   "NitroLaunchFuel": 7.0,
+   "NitroLaunchRetard": 4.0,
+   "NitroOverdrive": 45.0,
+   "NitroRearGear": 3.37,
+   "NitroRearWing": 6.0,
+   "NitroRetardTime": 0.2,
+   "NitroStage1Pct": 21.5,
+   "NitroStage1Time": 1.59,
+   "NitroStage2Pct": 20.5,
+   "NitroStage2Time": 2.15,
+   "NitroStage3Pct": 27.5,
+   "NitroStage3Time": 2.18,
+   "NitroTiming": 57.5,
+   "NitroTyrePressure": 6.95,
+   "ShiftType": 0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": 2.7,
+   "WheelieBarMinimum": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": 5.9125,
+   "count": 8,
+   "ets": [
+    4.493897914886475,
+    4.4974870681762695,
+    4.537285804748535,
+    4.489197254180908,
+    4.532742023468018,
+    4.555019855499268,
+    4.545454978942871,
+    4.592410087585449
+   ],
+   "maxLateral": 0.661124468,
+   "passed": true,
+   "wins": 8
+  }
+ },
+ "identity": {
+  "adder": "blower",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": false,
+   "isSupercharger": true,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   },
+   {
+    "id": 55,
+    "name": "Top Blower"
+   }
+  ],
+  "baseMaxRPM": 8500.0,
+  "baseTorque": 7000.0,
+  "carClass": "TopFuelDragster",
+  "carId": 53,
+  "carName": "Top Fuel Dragster",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Slick36",
+  "defaultEngineId": 54,
+  "destroyRPM": 10000.0,
+  "disableConverter": false,
+  "engineCategories": [],
+  "engineId": 55,
+  "engineName": "Top Blower",
+  "gripMultiplier": 1.2,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 9500.0,
+  "powerGainMultiplier": 1.3,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Slick36",
+  "useWheelieBar": true,
+  "weight": 500.0
+ },
+ "winning": {
+  "aiEt": 4.492520809173584,
+  "date": "2026-11-15T01:06:49",
+  "eighth": 3.02915573,
+  "et": 4.5373,
+  "mph": 336.578339,
+  "shifting": {
+   "manualShiftAt": 8526.0,
+   "maxRPM": 9000.0,
+   "mode": "manual (player shifts; harness shifts at shift light/limiter)",
+   "shiftLightRPM": 8700.0,
+   "shiftType": 0
+  },
+  "sixty": 0.8432009,
+  "threeThirty": 2.08096313,
+  "tune": {
+   "Drivetrain": 1,
+   "NitroBallast": 12.0,
+   "NitroClutchLaunch": 30.0,
+   "NitroCounterweight": 140.0,
+   "NitroFrontWing": 4.0,
+   "NitroFuelPump": 99.5,
+   "NitroFuelTimer": 0.9,
+   "NitroLaunchFuel": 7.0,
+   "NitroLaunchRetard": 4.0,
+   "NitroOverdrive": 45.0,
+   "NitroRearGear": 3.37,
+   "NitroRearWing": 6.0,
+   "NitroRetardTime": 0.2,
+   "NitroStage1Pct": 21.5,
+   "NitroStage1Time": 1.59,
+   "NitroStage2Pct": 20.5,
+   "NitroStage2Time": 2.15,
+   "NitroStage3Pct": 27.5,
+   "NitroStage3Time": 2.18,
+   "NitroTiming": 57.5,
+   "NitroTyrePressure": 6.95,
+   "ShiftType": 0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": 2.7,
+   "WheelieBarMinimum": 0.0,
+   "WheelieControl1": 7,
+   "WheelieControl2": 7,
+   "WheelieControl3": 7
+  },
+  "validation": {
+   "aiEtMean": 5.9125,
+   "count": 8,
+   "ets": [
+    4.493897914886475,
+    4.4974870681762695,
+    4.537285804748535,
+    4.489197254180908,
+    4.532742023468018,
+    4.555019855499268,
+    4.545454978942871,
+    4.592410087585449
+   ],
+   "maxLateral": 0.661124468,
+   "passed": true,
+   "wins": 8
+  }
+ }
+}

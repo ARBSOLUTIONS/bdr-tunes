@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:17:53",
+ "updated": "2026-11-15T01:06:51",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2772,6 +2772,24 @@
    "sixty": 1.02726161,
    "date": "2026-11-13T08:49:27",
    "kind": "fastest"
+  },
+  {
+   "path": "tunes/Top Fuel/Top Fuel Dragster__blower__Top Blower__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp.json",
+   "sha": "7f5755497b934dc4",
+   "class": "Top Fuel",
+   "car": "Top Fuel Dragster",
+   "engine": "Top Blower",
+   "engineId": 55,
+   "tire": "Slick36",
+   "carId": 53,
+   "adder": "blower",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "nitro",
+   "et": 4.5373,
+   "mph": 336.578339,
+   "sixty": 0.8432009,
+   "date": "2026-11-15T01:06:49",
+   "kind": "winning"
   },
   {
    "path": "tunes/Top Sportsman/Pro Stock 1__nitrous__Engine Top Sportsman Nitrous__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
