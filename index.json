@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T21:52:25",
+ "updated": "2026-11-15T22:03:03",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1997,6 +1997,24 @@
    "mph": 249.9895,
    "sixty": 0.9073604,
    "date": "2026-11-15T19:14:10",
+   "kind": "winning"
+  },
+  {
+   "path": "tunes/Pro Mod/Pro Mod 8__turbo__Pro Mod Turbo__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
+   "sha": "dce2b3abf22ebbff",
+   "class": "Pro Mod",
+   "car": "Pro Mod 8",
+   "engine": "Pro Mod Turbo",
+   "engineId": 1,
+   "tire": "Slick36",
+   "carId": 56,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Converter",
+   "et": 5.5085,
+   "mph": 262.949,
+   "sixty": 0.916047633,
+   "date": "2026-11-15T22:03:01",
    "kind": "winning"
   },
   {
