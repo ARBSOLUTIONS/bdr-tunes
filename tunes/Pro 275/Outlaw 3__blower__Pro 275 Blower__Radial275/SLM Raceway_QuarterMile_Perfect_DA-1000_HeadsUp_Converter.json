@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": 5.946650981903076,
-  "date": "2026-11-16T06:30:36",
-  "eighth": 3.66723919,
-  "et": 5.818,
-  "mph": 217.715714,
+  "aiEt": 5.942784786224365,
+  "date": "2026-11-16T06:42:14",
+  "eighth": 3.66138935,
+  "et": 5.81,
+  "mph": 217.790131,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 9850.0,
@@ -47,15 +47,15 @@
    "shiftLightRPM": 8900.0,
    "shiftType": 1
   },
-  "sixty": 0.933288634,
-  "threeThirty": 2.4582808,
+  "sixty": 0.9319888,
+  "threeThirty": 2.45222282,
   "tune": {
    "BOD": 1.29,
-   "BumpAggresive": 0.5,
+   "BumpAggresive": 0.51,
    "BumpBox": 0.1,
    "COM": -0.24,
-   "ConverterAmount1": 89.0,
-   "ConverterAmount2": 91.0,
+   "ConverterAmount1": 87.0,
+   "ConverterAmount2": 90.0,
    "ConverterAmount3": 93.0,
    "ConverterAmount4": 95.0,
    "ConverterAmount5": 98.0,
@@ -82,7 +82,7 @@
    "GearTimer3": 8.0,
    "GearTimer4": 8.0,
    "IdleRPM": 1000.0,
-   "LaunchControlRPM": 5700.0,
+   "LaunchControlRPM": 5400.0,
    "MaxExtension": 0.25,
    "MaxRPM": 9850.0,
    "RLBump": 8000.0,
@@ -109,7 +109,7 @@
    "Shift8": 8900.0,
    "ShiftType": 1,
    "SlipTorque": 6300.0,
-   "Timing1": 10.6,
+   "Timing1": 7.6,
    "Timing10": 30.0,
    "Timing11": 30.0,
    "Timing12": 30.0,
@@ -120,7 +120,7 @@
    "Timing17": 30.0,
    "Timing18": 30.0,
    "Timing19": 5.3,
-   "Timing2": 15.5,
+   "Timing2": 13.5,
    "Timing3": 20.9,
    "Timing4": 24.2,
    "Timing5": 27.4,
@@ -136,16 +136,16 @@
    "WheelieControl3": 32
   },
   "validation": {
-   "aiEtMean": 5.955,
+   "aiEtMean": 5.9164,
    "count": 5,
    "ets": [
-    5.8180413246154785,
-    5.812883377075195,
-    5.817221164703369,
-    5.828672409057617,
-    5.832616806030273
+    5.80996561050415,
+    5.808598518371582,
+    5.811960220336914,
+    5.8394999504089355,
+    5.803006649017334
    ],
-   "maxLateral": 0.5797574,
+   "maxLateral": 0.6208278,
    "passed": true,
    "wins": 5
   }
@@ -348,11 +348,11 @@
   "weight": 1080.0
  },
  "winning": {
-  "aiEt": 5.946650981903076,
-  "date": "2026-11-16T06:30:36",
-  "eighth": 3.66723919,
-  "et": 5.818,
-  "mph": 217.715714,
+  "aiEt": 5.942784786224365,
+  "date": "2026-11-16T06:42:14",
+  "eighth": 3.66138935,
+  "et": 5.81,
+  "mph": 217.790131,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 9850.0,
@@ -360,15 +360,15 @@
    "shiftLightRPM": 8900.0,
    "shiftType": 1
   },
-  "sixty": 0.933288634,
-  "threeThirty": 2.4582808,
+  "sixty": 0.9319888,
+  "threeThirty": 2.45222282,
   "tune": {
    "BOD": 1.29,
-   "BumpAggresive": 0.5,
+   "BumpAggresive": 0.51,
    "BumpBox": 0.1,
    "COM": -0.24,
-   "ConverterAmount1": 89.0,
-   "ConverterAmount2": 91.0,
+   "ConverterAmount1": 87.0,
+   "ConverterAmount2": 90.0,
    "ConverterAmount3": 93.0,
    "ConverterAmount4": 95.0,
    "ConverterAmount5": 98.0,
@@ -395,7 +395,7 @@
    "GearTimer3": 8.0,
    "GearTimer4": 8.0,
    "IdleRPM": 1000.0,
-   "LaunchControlRPM": 5700.0,
+   "LaunchControlRPM": 5400.0,
    "MaxExtension": 0.25,
    "MaxRPM": 9850.0,
    "RLBump": 8000.0,
@@ -422,7 +422,7 @@
    "Shift8": 8900.0,
    "ShiftType": 1,
    "SlipTorque": 6300.0,
-   "Timing1": 10.6,
+   "Timing1": 7.6,
    "Timing10": 30.0,
    "Timing11": 30.0,
    "Timing12": 30.0,
@@ -433,7 +433,7 @@
    "Timing17": 30.0,
    "Timing18": 30.0,
    "Timing19": 5.3,
-   "Timing2": 15.5,
+   "Timing2": 13.5,
    "Timing3": 20.9,
    "Timing4": 24.2,
    "Timing5": 27.4,
@@ -449,16 +449,16 @@
    "WheelieControl3": 32
   },
   "validation": {
-   "aiEtMean": 5.955,
+   "aiEtMean": 5.9164,
    "count": 5,
    "ets": [
-    5.8180413246154785,
-    5.812883377075195,
-    5.817221164703369,
-    5.828672409057617,
-    5.832616806030273
+    5.80996561050415,
+    5.808598518371582,
+    5.811960220336914,
+    5.8394999504089355,
+    5.803006649017334
    ],
-   "maxLateral": 0.5797574,
+   "maxLateral": 0.6208278,
    "passed": true,
    "wins": 5
   }
