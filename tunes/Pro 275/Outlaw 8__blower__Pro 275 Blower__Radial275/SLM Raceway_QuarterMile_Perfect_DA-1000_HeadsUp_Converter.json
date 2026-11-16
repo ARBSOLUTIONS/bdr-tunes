@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": 5.7567057609558105,
-  "date": "2026-11-16T08:39:18",
-  "eighth": 3.699127,
-  "et": 5.764,
-  "mph": 241.4536,
+  "aiEt": 5.7752838134765625,
+  "date": "2026-11-16T08:53:39",
+  "eighth": 3.70196986,
+  "et": 5.7573,
+  "mph": 241.761765,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 9850.0,
@@ -47,14 +47,14 @@
    "shiftLightRPM": 8900.0,
    "shiftType": 1
   },
-  "sixty": 0.9337572,
-  "threeThirty": 2.47123671,
+  "sixty": 0.9303779,
+  "threeThirty": 2.47438073,
   "tune": {
    "BOD": 1.29,
    "BumpAggresive": 0.5,
    "BumpBox": 0.1,
    "COM": -0.18,
-   "ConverterAmount1": 93.0,
+   "ConverterAmount1": 90.0,
    "ConverterAmount2": 85.0,
    "ConverterAmount3": 80.0,
    "ConverterAmount4": 75.0,
@@ -82,7 +82,7 @@
    "GearTimer3": 8.0,
    "GearTimer4": 8.0,
    "IdleRPM": 1000.0,
-   "LaunchControlRPM": 5800.0,
+   "LaunchControlRPM": 5700.0,
    "MaxRPM": 9850.0,
    "RLBump": 2000.0,
    "RLForce": 13700.0,
@@ -98,7 +98,7 @@
    "Ratio4": 1.75,
    "Ratio5": 1.25,
    "RatioF": 1.075,
-   "RevCutoffTime": 0.01,
+   "RevCutoffTime": 0.02,
    "Shift1": 9700.0,
    "Shift2": 9700.0,
    "Shift3": 9700.0,
@@ -107,7 +107,7 @@
    "Shift8": 8900.0,
    "ShiftType": 1,
    "SlipTorque": 6300.0,
-   "Timing1": 10.6,
+   "Timing1": 7.6,
    "Timing10": 30.0,
    "Timing11": 30.0,
    "Timing12": 30.0,
@@ -118,7 +118,7 @@
    "Timing17": 30.0,
    "Timing18": 30.0,
    "Timing19": 5.3,
-   "Timing2": 15.5,
+   "Timing2": 13.5,
    "Timing3": 18.9,
    "Timing4": 22.2,
    "Timing5": 27.4,
@@ -134,16 +134,16 @@
    "WheelieControl3": 7
   },
   "validation": {
-   "aiEtMean": 6.0325,
+   "aiEtMean": 6.0159,
    "count": 5,
    "ets": [
-    5.7639946937561035,
-    5.764331817626953,
-    5.759530067443848,
-    5.773204803466797,
-    5.755285739898682
+    5.776844501495361,
+    5.757348537445068,
+    5.759876251220703,
+    5.753560543060303,
+    5.756744384765625
    ],
-   "maxLateral": 0.327093929,
+   "maxLateral": 0.9667899,
    "passed": true,
    "wins": 5
   }
@@ -346,11 +346,11 @@
   "weight": 1080.0
  },
  "winning": {
-  "aiEt": 5.7567057609558105,
-  "date": "2026-11-16T08:39:18",
-  "eighth": 3.699127,
-  "et": 5.764,
-  "mph": 241.4536,
+  "aiEt": 5.7752838134765625,
+  "date": "2026-11-16T08:53:39",
+  "eighth": 3.70196986,
+  "et": 5.7573,
+  "mph": 241.761765,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 9850.0,
@@ -358,14 +358,14 @@
    "shiftLightRPM": 8900.0,
    "shiftType": 1
   },
-  "sixty": 0.9337572,
-  "threeThirty": 2.47123671,
+  "sixty": 0.9303779,
+  "threeThirty": 2.47438073,
   "tune": {
    "BOD": 1.29,
    "BumpAggresive": 0.5,
    "BumpBox": 0.1,
    "COM": -0.18,
-   "ConverterAmount1": 93.0,
+   "ConverterAmount1": 90.0,
    "ConverterAmount2": 85.0,
    "ConverterAmount3": 80.0,
    "ConverterAmount4": 75.0,
@@ -393,7 +393,7 @@
    "GearTimer3": 8.0,
    "GearTimer4": 8.0,
    "IdleRPM": 1000.0,
-   "LaunchControlRPM": 5800.0,
+   "LaunchControlRPM": 5700.0,
    "MaxRPM": 9850.0,
    "RLBump": 2000.0,
    "RLForce": 13700.0,
@@ -409,7 +409,7 @@
    "Ratio4": 1.75,
    "Ratio5": 1.25,
    "RatioF": 1.075,
-   "RevCutoffTime": 0.01,
+   "RevCutoffTime": 0.02,
    "Shift1": 9700.0,
    "Shift2": 9700.0,
    "Shift3": 9700.0,
@@ -418,7 +418,7 @@
    "Shift8": 8900.0,
    "ShiftType": 1,
    "SlipTorque": 6300.0,
-   "Timing1": 10.6,
+   "Timing1": 7.6,
    "Timing10": 30.0,
    "Timing11": 30.0,
    "Timing12": 30.0,
@@ -429,7 +429,7 @@
    "Timing17": 30.0,
    "Timing18": 30.0,
    "Timing19": 5.3,
-   "Timing2": 15.5,
+   "Timing2": 13.5,
    "Timing3": 18.9,
    "Timing4": 22.2,
    "Timing5": 27.4,
@@ -445,16 +445,16 @@
    "WheelieControl3": 7
   },
   "validation": {
-   "aiEtMean": 6.0325,
+   "aiEtMean": 6.0159,
    "count": 5,
    "ets": [
-    5.7639946937561035,
-    5.764331817626953,
-    5.759530067443848,
-    5.773204803466797,
-    5.755285739898682
+    5.776844501495361,
+    5.757348537445068,
+    5.759876251220703,
+    5.753560543060303,
+    5.756744384765625
    ],
-   "maxLateral": 0.327093929,
+   "maxLateral": 0.9667899,
    "passed": true,
    "wins": 5
   }
