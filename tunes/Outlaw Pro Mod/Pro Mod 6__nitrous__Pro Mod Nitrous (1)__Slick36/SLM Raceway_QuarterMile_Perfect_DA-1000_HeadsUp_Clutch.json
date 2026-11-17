@@ -1,0 +1,280 @@
+{
+ "class": "Outlaw Pro Mod",
+ "combo": "Pro Mod 6__nitrous__Pro Mod Nitrous (1)__Slick36",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 32,
+  "classIndex": 12,
+  "className": "Outlaw Pro Mod",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 87,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 5.3138227462768555,
+  "date": "2026-11-18T00:45:58",
+  "eighth": 3.41015244,
+  "et": 5.3142,
+  "mph": 261.894531,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 9800.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8850.0,
+   "shiftType": 1
+  },
+  "sixty": 0.870449245,
+  "threeThirty": 2.27318144,
+  "tune": {
+   "BumpAggresive": 0.51,
+   "BumpBox": 0.11,
+   "COM": 0.18,
+   "ConverterAmount1": 93.0,
+   "ConverterAmount2": 94.0,
+   "ConverterAmount3": 96.0,
+   "ConverterAmount4": 97.0,
+   "ConverterAmount5": 99.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.8,
+   "ConverterTimer3": 1.6,
+   "ConverterTimer4": 2.4,
+   "ConverterTimer5": 3.2,
+   "ConverterTimer6": 4.0,
+   "Drivetrain": 0,
+   "EngagementRPM": 1350.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2300.0,
+   "FLForce": 12550.0,
+   "FLLength": 0.19,
+   "FLRebound": 5650.0,
+   "FRBump": 2050.0,
+   "FRForce": 12900.0,
+   "FRLength": 0.19,
+   "FRRebound": 5050.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 3350.0,
+   "MaxRPM": 9800.0,
+   "Nos1": 190.0,
+   "Nos2": 195.0,
+   "Nos3": 195.0,
+   "Nos4": 195.0,
+   "Nos5": 190.0,
+   "Nos6": 185.0,
+   "NosEnd1": 7.725,
+   "NosEnd2": 7.85,
+   "NosEnd3": 7.85,
+   "NosEnd4": 7.75,
+   "NosEnd5": 7.875,
+   "NosEnd6": 7.7,
+   "NosStart1": 0.0,
+   "NosStart2": 0.325,
+   "NosStart3": 0.525,
+   "NosStart4": 0.15,
+   "NosStart5": 0.075,
+   "NosStart6": 0.125,
+   "RLBump": 2200.0,
+   "RLForce": 12300.0,
+   "RLLength": 0.2,
+   "RLRebound": 5300.0,
+   "RRBump": 2050.0,
+   "RRForce": 12150.0,
+   "RRLength": 0.2,
+   "RRRebound": 5000.0,
+   "Ratio1": 6.15,
+   "Ratio2": 5.025,
+   "Ratio3": 4.45,
+   "Ratio4": 3.225,
+   "Ratio5": 2.875,
+   "RatioF": 1.0,
+   "RevCutoffTime": 0.02,
+   "Shift1": 9550.0,
+   "Shift2": 9350.0,
+   "Shift3": 9650.0,
+   "Shift4": 8850.0,
+   "Shift7": 1500.0,
+   "Shift8": 8850.0,
+   "ShiftType": 1,
+   "SlipTorque": 6700.0,
+   "Timing1": 28.1,
+   "Timing10": 30.0,
+   "Timing11": 29.5,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 2.5,
+   "Timing2": 29.3,
+   "Timing3": 28.3,
+   "Timing4": 30.0,
+   "Timing5": 29.9,
+   "Timing6": 30.0,
+   "Timing7": 29.3,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 600.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieBarMaximum": -0.2,
+   "WheelieBarMinimum": -6.0,
+   "WheelieControl1": 0,
+   "WheelieControl2": 0,
+   "WheelieControl3": 0
+  },
+  "validation": {
+   "aiEtMean": 5.2598,
+   "count": 5,
+   "ets": [
+    5.309197425842285,
+    5.309382438659668,
+    5.3141937255859375,
+    5.315345764160156,
+    5.317380905151367
+   ],
+   "maxLateral": 0.9228983,
+   "passed": true,
+   "wins": 0
+  }
+ },
+ "identity": {
+  "adder": "nitrous",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": true,
+   "isSupercharger": false,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 0,
+    "name": "Pro Mod Blower"
+   },
+   {
+    "id": 3,
+    "name": "Pro Mod Nitrous"
+   },
+   {
+    "id": 1,
+    "name": "Pro Mod Turbo"
+   },
+   {
+    "id": 2,
+    "name": "Pro Mod Centrifugal"
+   },
+   {
+    "id": 4,
+    "name": "315 Blower (1)"
+   },
+   {
+    "id": 7,
+    "name": "315 Nitrous (1)"
+   },
+   {
+    "id": 5,
+    "name": "315 Turbo (1)"
+   },
+   {
+    "id": 6,
+    "name": "315 Centrifugal (1)"
+   },
+   {
+    "id": 9,
+    "name": "Pro 632"
+   },
+   {
+    "id": 8,
+    "name": "Pro Diesel"
+   },
+   {
+    "id": 84,
+    "name": "Pro Mod Blower (1)"
+   },
+   {
+    "id": 87,
+    "name": "Pro Mod Nitrous (1)"
+   },
+   {
+    "id": 85,
+    "name": "Pro Mod Turbo (1)"
+   },
+   {
+    "id": 86,
+    "name": "Pro Mod Centrifugal (1)"
+   },
+   {
+    "id": 124,
+    "name": "Outlaw 275 Blower (2)"
+   },
+   {
+    "id": 130,
+    "name": "Outlaw 275 Nitrous (2)"
+   },
+   {
+    "id": 126,
+    "name": "Outlaw 275 Turbo (2)"
+   },
+   {
+    "id": 128,
+    "name": "Outlaw 275 Centrifugal (2)"
+   }
+  ],
+  "baseMaxRPM": 8500.0,
+  "baseTorque": 2110.0,
+  "carClass": "ProModified",
+  "carId": 32,
+  "carName": "Pro Mod 6",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Slick36",
+  "defaultEngineId": 2,
+  "destroyRPM": 10000.0,
+  "disableConverter": false,
+  "engineCategories": [
+   "DomesticEngine"
+  ],
+  "engineId": 87,
+  "engineName": "Pro Mod Nitrous (1)",
+  "gripMultiplier": 1.0,
+  "ignoreSuspension": false,
+  "isRadial": false,
+  "manualOnly": false,
+  "maxSafeRPM": 9500.0,
+  "powerGainMultiplier": 0.0,
+  "rearTireWheelHeat": "Slick",
+  "tire": "Slick36",
+  "useWheelieBar": true,
+  "weight": 1270.0
+ },
+ "winning": null
+}
