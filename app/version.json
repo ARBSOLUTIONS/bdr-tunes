@@ -1,6 +1,6 @@
 {
- "version": "1.0.7",
- "zip": "BDR-Setup-Loader-1.0.7.zip",
- "sha": "3fdc9b9b7f92f7ca84888aa5d3225e4738be6eed94c929c42dc676d2cce7d27b",
- "notes": "Fix: class list and tune list scroll instead of overflowing; window fits the screen."
+ "version": "1.0.8",
+ "zip": "BDR-Setup-Loader-1.0.8.zip",
+ "sha": "1e3c646e0bbe5c3296a75d38a936373be9a0cbf147c4bb16ee423ca145949172",
+ "notes": "Nieuwe interface: de Setup Loader draait nu als web-app (WebView2) met een donker rood/zwart thema, startscherm, verkennen, collectie, bibliotheek (opgeslagen/recent) en tune-details. Zonder WebView2 opent hij in je standaardbrowser."
 }
