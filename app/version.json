@@ -1,6 +1,6 @@
 {
- "version": "1.0.8",
- "zip": "BDR-Setup-Loader-1.0.8.zip",
- "sha": "1e3c646e0bbe5c3296a75d38a936373be9a0cbf147c4bb16ee423ca145949172",
- "notes": "Nieuwe interface: de Setup Loader draait nu als web-app (WebView2) met een donker rood/zwart thema, startscherm, verkennen, collectie, bibliotheek (opgeslagen/recent) en tune-details. Zonder WebView2 opent hij in je standaardbrowser."
+ "version": "1.0.9",
+ "zip": "BDR-Setup-Loader-1.0.9.zip",
+ "sha": "d42940af38e3833c398f21f42c6839045f8543c93b181a1c8eaee5dc3a8b94ac",
+ "notes": "Werkt weer met de game-update van 22 november (Unity 6). De oude plugin liet de game bij het opstarten crashen; deze versie werkt de plugin mee bij. Sluit eerst de game en klik dan op Update. Ook: de autoplaatjes worden weer uit de game gehaald (nieuwe plek in de game-bestanden)."
 }
