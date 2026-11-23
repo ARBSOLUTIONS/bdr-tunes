@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:17:32",
+ "updated": "2026-11-24T00:19:14",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2303,6 +2303,24 @@
    "mph": 226.082458,
    "sixty": 0.9370124,
    "date": "2026-11-23T19:55:23",
+   "kind": "winning"
+  },
+  {
+   "path": "tunes/Pro 275/Outlaw 20__turbo__Pro 275 Twin Turbo__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "feec6c51dc57b712",
+   "class": "Pro 275",
+   "car": "Outlaw 20",
+   "engine": "Pro 275 Twin Turbo",
+   "engineId": 11,
+   "tire": "Radial275",
+   "carId": 83,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.6725,
+   "mph": 242.670837,
+   "sixty": 0.933946252,
+   "date": "2026-11-24T00:19:11",
    "kind": "winning"
   },
   {
