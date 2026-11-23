@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:30:00",
+ "updated": "2026-11-23T18:01:35",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1875,7 +1875,7 @@
   },
   {
    "path": "tunes/Pro 275/Outlaw 15__blower__Pro 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "950db20524a34951",
+   "sha": "792e1dc58fdae3d6",
    "class": "Pro 275",
    "car": "Outlaw 15",
    "engine": "Pro 275 Blower",
@@ -1947,7 +1947,7 @@
   },
   {
    "path": "tunes/Pro 275/Outlaw 1__blower__Pro 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "9c226ce3a26b9c98",
+   "sha": "d7ad862511c34cf5",
    "class": "Pro 275",
    "car": "Outlaw 1",
    "engine": "Pro 275 Blower",
@@ -2127,7 +2127,7 @@
   },
   {
    "path": "tunes/Pro 275/Outlaw 2__blower__Pro 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "6046211d1c2552a1",
+   "sha": "aca1f79c2bd1f463",
    "class": "Pro 275",
    "car": "Outlaw 2",
    "engine": "Pro 275 Blower",
@@ -2325,7 +2325,7 @@
   },
   {
    "path": "tunes/Pro 275/Outlaw 8__blower__Pro 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "3a2242170ec51980",
+   "sha": "22d801f66c17e8ba",
    "class": "Pro 275",
    "car": "Outlaw 8",
    "engine": "Pro 275 Blower",
