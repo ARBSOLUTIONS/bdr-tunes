@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:42:07",
+ "updated": "2026-11-24T19:46:45",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1763,6 +1763,24 @@
    "mph": 238.463348,
    "sixty": 0.9213607,
    "date": "2026-11-24T03:11:45",
+   "kind": "winning"
+  },
+  {
+   "path": "tunes/Pro 275/Outlaw 10__nitrous__Pro 275 Nitrous__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "8f4a6685316c6d59",
+   "class": "Pro 275",
+   "car": "Outlaw 10",
+   "engine": "Pro 275 Nitrous",
+   "engineId": 13,
+   "tire": "Radial275",
+   "carId": 25,
+   "adder": "nitrous",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.6462,
+   "mph": 241.700165,
+   "sixty": 0.924873948,
+   "date": "2026-11-24T19:46:42",
    "kind": "winning"
   },
   {
