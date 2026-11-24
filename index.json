@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:31:07",
+ "updated": "2026-11-24T05:32:25",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2664,6 +2664,24 @@
    "sixty": 0.95720017,
    "date": "2026-11-23T15:38:02",
    "kind": "fastest"
+  },
+  {
+   "path": "tunes/Pro 275/Outlaw 26__centrifugal__Pro 275 Centrifugal__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "e8fb29be39fd3234",
+   "class": "Pro 275",
+   "car": "Outlaw 26",
+   "engine": "Pro 275 Centrifugal",
+   "engineId": 12,
+   "tire": "Radial275",
+   "carId": 135,
+   "adder": "centrifugal",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.7825,
+   "mph": 238.646835,
+   "sixty": 0.8984145,
+   "date": "2026-11-24T05:32:22",
+   "kind": "winning"
   },
   {
    "path": "tunes/Pro 275/Outlaw 26__turbo__Pro 275 Twin Turbo__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
