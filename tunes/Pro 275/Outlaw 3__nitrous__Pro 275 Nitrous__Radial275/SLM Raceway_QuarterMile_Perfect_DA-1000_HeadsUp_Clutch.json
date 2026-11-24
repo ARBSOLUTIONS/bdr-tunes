@@ -1,0 +1,500 @@
+{
+ "class": "Pro 275",
+ "combo": "Outlaw 3__nitrous__Pro 275 Nitrous__Radial275",
+ "conditions": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch",
+ "conditionsDetail": {
+  "active": true,
+  "carId": 21,
+  "classIndex": 1,
+  "className": "Pro 275",
+  "conditions": {
+   "barometric": 1050.0,
+   "humidity": 20.0,
+   "name": "Perfect",
+   "prep": 100.0,
+   "temperatureF": 40.0
+  },
+  "conditionsIndex": 0,
+  "difficulty": {
+   "name": "50 (Expert)",
+   "powerScale": 1.00666666,
+   "reactionMean": 0.07944444,
+   "reactionSpread": 0.03111111,
+   "redLightChance": 0.0277777761,
+   "rung": -1
+  },
+  "difficultyLevel": 50.0,
+  "engineId": 13,
+  "length": "QuarterMile",
+  "mode": "QuickRace",
+  "proTree": true,
+  "raceType": "HeadsUp",
+  "timeOfDayHour": -1,
+  "toolSession": false,
+  "track": "SLM Raceway",
+  "trackIndex": 0
+ },
+ "fastest": {
+  "aiEt": 6.392940998077393,
+  "date": "2026-11-24T18:39:14",
+  "eighth": 3.60275483,
+  "et": 5.6269,
+  "mph": 241.865158,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 9850.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8900.0,
+   "shiftType": 1
+  },
+  "sixty": 0.911805,
+  "threeThirty": 2.41924858,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.18,
+   "ConverterAmount1": 88.0,
+   "ConverterAmount2": 90.0,
+   "ConverterAmount3": 93.0,
+   "ConverterAmount4": 95.0,
+   "ConverterAmount5": 98.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.625,
+   "ConverterTimer3": 1.225,
+   "ConverterTimer4": 1.85,
+   "ConverterTimer5": 2.45,
+   "ConverterTimer6": 3.075,
+   "Drivetrain": 0,
+   "EngagementRPM": 1000.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12400.0,
+   "FLLength": 0.12,
+   "FLRebound": 6250.0,
+   "FRBump": 2000.0,
+   "FRForce": 12400.0,
+   "FRLength": 0.12,
+   "FRRebound": 6600.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 7650.0,
+   "MaxExtension": 0.25,
+   "MaxRPM": 9850.0,
+   "Nos1": 200.0,
+   "Nos2": 195.0,
+   "Nos3": 200.0,
+   "Nos4": 200.0,
+   "Nos5": 200.0,
+   "Nos6": 200.0,
+   "NosEnd1": 7.4,
+   "NosEnd2": 7.75,
+   "NosEnd3": 7.875,
+   "NosEnd4": 7.75,
+   "NosEnd5": 7.75,
+   "NosEnd6": 7.75,
+   "NosStart1": 1.1,
+   "NosStart2": 0.95,
+   "NosStart3": 0.875,
+   "NosStart4": 0.95,
+   "NosStart5": 0.95,
+   "NosStart6": 0.925,
+   "RLBump": 7500.0,
+   "RLForce": 18900.0,
+   "RLLength": 0.16,
+   "RLRebound": 5050.0,
+   "RRBump": 7100.0,
+   "RRForce": 18900.0,
+   "RRLength": 0.16,
+   "RRRebound": 5200.0,
+   "Ratio1": 5.25,
+   "Ratio2": 4.675,
+   "Ratio3": 4.325,
+   "Ratio4": 3.85,
+   "Ratio5": 2.875,
+   "RatioF": 0.875,
+   "RevCutoffTime": 0.01,
+   "RiseSpeed": 0.25,
+   "Shift1": 8850.0,
+   "Shift2": 9350.0,
+   "Shift3": 9200.0,
+   "Shift4": 8450.0,
+   "Shift7": 1500.0,
+   "Shift8": 8900.0,
+   "ShiftType": 1,
+   "SlipTorque": 6300.0,
+   "Timing1": 15.4,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 30.0,
+   "Timing2": 18.6,
+   "Timing3": 21.4,
+   "Timing4": 24.5,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 3250.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 19,
+   "WheelieControl2": 24,
+   "WheelieControl3": 32
+  },
+  "validation": {
+   "aiEtMean": 5.829,
+   "count": 5,
+   "ets": [
+    5.626882553100586,
+    5.6258463859558105,
+    5.65195369720459,
+    5.626646518707275,
+    5.630165100097656
+   ],
+   "maxLateral": 0.290553957,
+   "passed": true,
+   "wins": 5
+  }
+ },
+ "identity": {
+  "adder": "nitrous",
+  "adderFlags": {
+   "hasWastegate": false,
+   "isNitrous": true,
+   "isSupercharger": false,
+   "isTurbo": false
+  },
+  "availableEngines": [
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 118,
+    "name": "All Motor"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 10,
+    "name": "Pro 275 Blower"
+   },
+   {
+    "id": 11,
+    "name": "Pro 275 Twin Turbo"
+   },
+   {
+    "id": 12,
+    "name": "Pro 275 Centrifugal"
+   },
+   {
+    "id": 13,
+    "name": "Pro 275 Nitrous"
+   },
+   {
+    "id": 14,
+    "name": "X 275 Twin Turbo"
+   },
+   {
+    "id": 15,
+    "name": "X 275 Single Turbo"
+   },
+   {
+    "id": 16,
+    "name": "X 275 Centrifugal"
+   },
+   {
+    "id": 17,
+    "name": "X 275 Nitrous"
+   },
+   {
+    "id": 18,
+    "name": "X 275 Blower"
+   },
+   {
+    "id": 19,
+    "name": "X275 Diesel"
+   },
+   {
+    "id": 20,
+    "name": "Outlaw Diesel"
+   },
+   {
+    "id": 21,
+    "name": "Pro Street Blower (1)"
+   },
+   {
+    "id": 22,
+    "name": "Pro Street Twin Turbo (1)"
+   },
+   {
+    "id": 23,
+    "name": "Pro Street Centrifugal (1)"
+   },
+   {
+    "id": 24,
+    "name": "Pro Street Nitrous (1)"
+   },
+   {
+    "id": 25,
+    "name": "Street Single Turbo (2)"
+   },
+   {
+    "id": 26,
+    "name": "Street Nitrous (2)"
+   },
+   {
+    "id": 27,
+    "name": "Street Centrifugal (2)"
+   },
+   {
+    "id": 28,
+    "name": "Limited Single Turbo (1)"
+   },
+   {
+    "id": 29,
+    "name": "Limited Nitrous (1)"
+   },
+   {
+    "id": 30,
+    "name": "Limited Centrifugal (1)"
+   },
+   {
+    "id": 31,
+    "name": "Factory X"
+   },
+   {
+    "id": 125,
+    "name": "Outlaw 275 Blower (1)"
+   },
+   {
+    "id": 131,
+    "name": "Outlaw 275 Nitrous (1)"
+   },
+   {
+    "id": 127,
+    "name": "Outlaw 275 Twin Turbo (1)"
+   },
+   {
+    "id": 129,
+    "name": "Outlaw 275 Centrifugal (1)"
+   },
+   {
+    "id": 134,
+    "name": "True 10.5 Blower"
+   },
+   {
+    "id": 135,
+    "name": "True 10.5 Twin Turbo (2)"
+   },
+   {
+    "id": 137,
+    "name": "True 10.5 Nitrous (2)"
+   },
+   {
+    "id": 136,
+    "name": "True 10.5 Centrifugal (2)"
+   }
+  ],
+  "baseMaxRPM": 8500.0,
+  "baseTorque": 1500.0,
+  "carClass": "Outlaw",
+  "carId": 21,
+  "carName": "Outlaw 3",
+  "carTag": "",
+  "classText": null,
+  "customizationTire": "Radial275",
+  "defaultEngineId": 21,
+  "destroyRPM": 10000.0,
+  "disableConverter": false,
+  "engineCategories": [
+   "OutlawEngine"
+  ],
+  "engineId": 13,
+  "engineName": "Pro 275 Nitrous",
+  "gripMultiplier": 0.65,
+  "ignoreSuspension": false,
+  "isRadial": true,
+  "manualOnly": false,
+  "maxSafeRPM": 9000.0,
+  "powerGainMultiplier": 0.0,
+  "rearTireWheelHeat": "Radial",
+  "tire": "Radial275",
+  "useWheelieBar": false,
+  "weight": 1000.0
+ },
+ "winning": {
+  "aiEt": 6.392940998077393,
+  "date": "2026-11-24T18:39:14",
+  "eighth": 3.60275483,
+  "et": 5.6269,
+  "mph": 241.865158,
+  "shifting": {
+   "manualShiftAt": null,
+   "maxRPM": 9850.0,
+   "mode": "auto at shift RPMs",
+   "shiftLightRPM": 8900.0,
+   "shiftType": 1
+  },
+  "sixty": 0.911805,
+  "threeThirty": 2.41924858,
+  "tune": {
+   "BumpAggresive": 0.5,
+   "BumpBox": 0.1,
+   "COM": -0.18,
+   "ConverterAmount1": 88.0,
+   "ConverterAmount2": 90.0,
+   "ConverterAmount3": 93.0,
+   "ConverterAmount4": 95.0,
+   "ConverterAmount5": 98.0,
+   "ConverterAmount6": 100.0,
+   "ConverterTimer1": 0.0,
+   "ConverterTimer2": 0.625,
+   "ConverterTimer3": 1.225,
+   "ConverterTimer4": 1.85,
+   "ConverterTimer5": 2.45,
+   "ConverterTimer6": 3.075,
+   "Drivetrain": 0,
+   "EngagementRPM": 1000.0,
+   "EngagementSpeed": 0.55,
+   "FLBump": 2000.0,
+   "FLForce": 12400.0,
+   "FLLength": 0.12,
+   "FLRebound": 6250.0,
+   "FRBump": 2000.0,
+   "FRForce": 12400.0,
+   "FRLength": 0.12,
+   "FRRebound": 6600.0,
+   "GearTimer1": 8.0,
+   "GearTimer2": 8.0,
+   "GearTimer3": 8.0,
+   "GearTimer4": 8.0,
+   "IdleRPM": 1000.0,
+   "LaunchControlRPM": 7650.0,
+   "MaxExtension": 0.25,
+   "MaxRPM": 9850.0,
+   "Nos1": 200.0,
+   "Nos2": 195.0,
+   "Nos3": 200.0,
+   "Nos4": 200.0,
+   "Nos5": 200.0,
+   "Nos6": 200.0,
+   "NosEnd1": 7.4,
+   "NosEnd2": 7.75,
+   "NosEnd3": 7.875,
+   "NosEnd4": 7.75,
+   "NosEnd5": 7.75,
+   "NosEnd6": 7.75,
+   "NosStart1": 1.1,
+   "NosStart2": 0.95,
+   "NosStart3": 0.875,
+   "NosStart4": 0.95,
+   "NosStart5": 0.95,
+   "NosStart6": 0.925,
+   "RLBump": 7500.0,
+   "RLForce": 18900.0,
+   "RLLength": 0.16,
+   "RLRebound": 5050.0,
+   "RRBump": 7100.0,
+   "RRForce": 18900.0,
+   "RRLength": 0.16,
+   "RRRebound": 5200.0,
+   "Ratio1": 5.25,
+   "Ratio2": 4.675,
+   "Ratio3": 4.325,
+   "Ratio4": 3.85,
+   "Ratio5": 2.875,
+   "RatioF": 0.875,
+   "RevCutoffTime": 0.01,
+   "RiseSpeed": 0.25,
+   "Shift1": 8850.0,
+   "Shift2": 9350.0,
+   "Shift3": 9200.0,
+   "Shift4": 8450.0,
+   "Shift7": 1500.0,
+   "Shift8": 8900.0,
+   "ShiftType": 1,
+   "SlipTorque": 6300.0,
+   "Timing1": 15.4,
+   "Timing10": 30.0,
+   "Timing11": 30.0,
+   "Timing12": 30.0,
+   "Timing13": 30.0,
+   "Timing14": 30.0,
+   "Timing15": 30.0,
+   "Timing16": 30.0,
+   "Timing17": 30.0,
+   "Timing18": 30.0,
+   "Timing19": 30.0,
+   "Timing2": 18.6,
+   "Timing3": 21.4,
+   "Timing4": 24.5,
+   "Timing5": 30.0,
+   "Timing6": 30.0,
+   "Timing7": 30.0,
+   "Timing8": 30.0,
+   "Timing9": 30.0,
+   "VariableEngagementRPM": 3250.0,
+   "WheelSpacing": 0.0,
+   "WheelSpacingFront": 0.0,
+   "WheelieControl1": 19,
+   "WheelieControl2": 24,
+   "WheelieControl3": 32
+  },
+  "validation": {
+   "aiEtMean": 5.829,
+   "count": 5,
+   "ets": [
+    5.626882553100586,
+    5.6258463859558105,
+    5.65195369720459,
+    5.626646518707275,
+    5.630165100097656
+   ],
+   "maxLateral": 0.290553957,
+   "passed": true,
+   "wins": 5
+  }
+ }
+}
