@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:34:28",
+ "updated": "2026-11-25T01:37:36",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2973,7 +2973,7 @@
   },
   {
    "path": "tunes/Pro 275/Outlaw 2__blower__Pro 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
-   "sha": "338a3628465c1d8c",
+   "sha": "0aadfc1f4749fe9a",
    "class": "Pro 275",
    "car": "Outlaw 2",
    "engine": "Pro 275 Blower",
