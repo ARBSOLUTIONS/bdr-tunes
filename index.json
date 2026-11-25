@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:00:46",
+ "updated": "2026-11-25T14:05:50",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -8297,6 +8297,24 @@
    "mph": 189.2521,
    "sixty": 1.29988265,
    "date": "2026-11-25T11:53:51",
+   "kind": "fastest"
+  },
+  {
+   "path": "tunes/Pro Street/Outlaw 34__nitrous__Pro Street Nitrous (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "70c1a84bd1b7efaf",
+   "class": "Pro Street",
+   "car": "Outlaw 34",
+   "engine": "Pro Street Nitrous (1)",
+   "engineId": 24,
+   "tire": "Slick105",
+   "carId": 147,
+   "adder": "nitrous",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 7.8095,
+   "mph": 192.290527,
+   "sixty": 1.2720567,
+   "date": "2026-11-25T14:05:46",
    "kind": "fastest"
   },
   {
