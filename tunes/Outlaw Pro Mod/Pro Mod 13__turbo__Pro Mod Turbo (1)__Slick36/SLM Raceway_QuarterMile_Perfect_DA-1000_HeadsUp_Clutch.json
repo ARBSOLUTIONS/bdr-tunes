@@ -35,20 +35,20 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": 5.430706977844238,
-  "date": "2026-11-25T06:26:57",
-  "eighth": 3.41266179,
-  "et": 5.2555,
-  "mph": 274.8244,
+  "aiEt": 5.239802837371826,
+  "date": "2026-11-25T19:20:43",
+  "eighth": 3.4131968,
+  "et": 5.2409,
+  "mph": 274.756866,
   "shifting": {
    "manualShiftAt": null,
-   "maxRPM": 9750.0,
+   "maxRPM": 9850.0,
    "mode": "auto at shift RPMs",
    "shiftLightRPM": 8350.0,
    "shiftType": 1
   },
-  "sixty": 0.870537639,
-  "threeThirty": 2.2961297,
+  "sixty": 0.8723991,
+  "threeThirty": 2.297615,
   "tune": {
    "Boost1": 1.28,
    "Boost2": 1.3,
@@ -88,11 +88,11 @@
    "IdleRPM": 1000.0,
    "LaunchControlRPM": 2650.0,
    "MaxRPM": 9850.0,
-   "RLBump": 2000.0,
+   "RLBump": 2500.0,
    "RLForce": 11850.0,
    "RLLength": 0.19,
    "RLRebound": 4900.0,
-   "RRBump": 2150.0,
+   "RRBump": 2650.0,
    "RRForce": 11850.0,
    "RRLength": 0.2,
    "RRRebound": 5250.0,
@@ -140,16 +140,16 @@
    "WheelieControl3": 0
   },
   "validation": {
-   "aiEtMean": 5.3236,
+   "aiEtMean": 5.3268,
    "count": 5,
    "ets": [
-    5.262142181396484,
-    5.240396022796631,
-    5.239049911499023,
-    5.257350444793701,
-    5.255469799041748
+    5.240941047668457,
+    5.2361626625061035,
+    5.237968444824219,
+    5.244240760803223,
+    5.242834091186523
    ],
-   "maxLateral": 1.747439,
+   "maxLateral": 0.8229943,
    "passed": true,
    "wins": 5
   }
@@ -264,20 +264,20 @@
   "weight": 1350.0
  },
  "winning": {
-  "aiEt": 5.430706977844238,
-  "date": "2026-11-25T06:26:57",
-  "eighth": 3.41266179,
-  "et": 5.2555,
-  "mph": 274.8244,
+  "aiEt": 5.239802837371826,
+  "date": "2026-11-25T19:20:43",
+  "eighth": 3.4131968,
+  "et": 5.2409,
+  "mph": 274.756866,
   "shifting": {
    "manualShiftAt": null,
-   "maxRPM": 9750.0,
+   "maxRPM": 9850.0,
    "mode": "auto at shift RPMs",
    "shiftLightRPM": 8350.0,
    "shiftType": 1
   },
-  "sixty": 0.870537639,
-  "threeThirty": 2.2961297,
+  "sixty": 0.8723991,
+  "threeThirty": 2.297615,
   "tune": {
    "Boost1": 1.28,
    "Boost2": 1.3,
@@ -317,11 +317,11 @@
    "IdleRPM": 1000.0,
    "LaunchControlRPM": 2650.0,
    "MaxRPM": 9850.0,
-   "RLBump": 2000.0,
+   "RLBump": 2500.0,
    "RLForce": 11850.0,
    "RLLength": 0.19,
    "RLRebound": 4900.0,
-   "RRBump": 2150.0,
+   "RRBump": 2650.0,
    "RRForce": 11850.0,
    "RRLength": 0.2,
    "RRRebound": 5250.0,
@@ -369,16 +369,16 @@
    "WheelieControl3": 0
   },
   "validation": {
-   "aiEtMean": 5.3236,
+   "aiEtMean": 5.3268,
    "count": 5,
    "ets": [
-    5.262142181396484,
-    5.240396022796631,
-    5.239049911499023,
-    5.257350444793701,
-    5.255469799041748
+    5.240941047668457,
+    5.2361626625061035,
+    5.237968444824219,
+    5.244240760803223,
+    5.242834091186523
    ],
-   "maxLateral": 1.747439,
+   "maxLateral": 0.8229943,
    "passed": true,
    "wins": 5
   }
