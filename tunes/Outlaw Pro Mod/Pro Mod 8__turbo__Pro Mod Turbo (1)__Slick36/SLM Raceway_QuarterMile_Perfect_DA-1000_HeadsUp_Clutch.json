@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": 5.591189384460449,
-  "date": "2026-11-25T06:14:50",
-  "eighth": 3.688958,
-  "et": 5.537,
-  "mph": 272.6572,
+  "aiEt": 5.248226642608643,
+  "date": "2026-11-25T19:05:30",
+  "eighth": 3.441742,
+  "et": 5.2415,
+  "mph": 272.727966,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 9800.0,
@@ -47,8 +47,8 @@
    "shiftLightRPM": 8350.0,
    "shiftType": 1
   },
-  "sixty": 0.955597639,
-  "threeThirty": 2.53123617,
+  "sixty": 0.878796458,
+  "threeThirty": 2.308738,
   "tune": {
    "Boost1": 1.28,
    "Boost2": 1.28,
@@ -57,7 +57,7 @@
    "Boost5": 1.3,
    "BumpAggresive": 0.5,
    "BumpBox": 0.1,
-   "COM": 0.14,
+   "COM": -0.1,
    "ConverterAmount1": 93.0,
    "ConverterAmount2": 94.0,
    "ConverterAmount3": 96.0,
@@ -73,11 +73,11 @@
    "Drivetrain": 0,
    "EngagementRPM": 1100.0,
    "EngagementSpeed": 0.55,
-   "FLBump": 2000.0,
+   "FLBump": 2500.0,
    "FLForce": 11650.0,
    "FLLength": 0.19,
    "FLRebound": 5100.0,
-   "FRBump": 2000.0,
+   "FRBump": 2500.0,
    "FRForce": 11650.0,
    "FRLength": 0.19,
    "FRRebound": 4900.0,
@@ -89,11 +89,11 @@
    "LaunchControlRPM": 2100.0,
    "MaxRPM": 9800.0,
    "RLBump": 2000.0,
-   "RLForce": 12750.0,
+   "RLForce": 14350.0,
    "RLLength": 0.2,
    "RLRebound": 5050.0,
    "RRBump": 2000.0,
-   "RRForce": 12750.0,
+   "RRForce": 14350.0,
    "RRLength": 0.2,
    "RRRebound": 5150.0,
    "Ratio1": 5.925,
@@ -140,18 +140,18 @@
    "WheelieControl3": 1
   },
   "validation": {
-   "aiEtMean": 5.3222,
+   "aiEtMean": 5.2196,
    "count": 5,
    "ets": [
-    5.538929462432861,
-    5.534336566925049,
-    5.536466598510742,
-    5.53700590133667,
-    5.54345703125
+    5.240396976470947,
+    5.245460510253906,
+    5.241525650024414,
+    5.242380142211914,
+    5.240422248840332
    ],
-   "maxLateral": 0.404396534,
+   "maxLateral": 0.496864855,
    "passed": true,
-   "wins": 0
+   "wins": 1
   }
  },
  "identity": {
