@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:17:03",
+ "updated": "2026-11-25T19:19:58",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2505,7 +2505,7 @@
   },
   {
    "path": "tunes/Outlaw Pro Mod/Pro Mod 9__turbo__Pro Mod Turbo (1)__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "50de0c6f8cd6b939",
+   "sha": "f5526b839632a700",
    "class": "Outlaw Pro Mod",
    "car": "Pro Mod 9",
    "engine": "Pro Mod Turbo (1)",
@@ -2515,10 +2515,10 @@
    "adder": "turbo",
    "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
    "dt": "Clutch",
-   "et": 5.2584,
-   "mph": 274.915558,
-   "sixty": 0.867818356,
-   "date": "2026-11-25T06:30:48",
+   "et": 5.2321,
+   "mph": 275.196472,
+   "sixty": 0.867559731,
+   "date": "2026-11-25T19:19:55",
    "kind": "winning"
   },
   {
