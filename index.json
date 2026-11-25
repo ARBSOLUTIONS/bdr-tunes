@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:01:38",
+ "updated": "2026-11-26T00:05:07",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -4968,6 +4968,24 @@
    "sixty": 1.1074959,
    "date": "2026-11-13T06:32:51",
    "kind": "winning"
+  },
+  {
+   "path": "tunes/Pro Import Big Block/Extreme Import 2__turbo__6 Cylinder Pro Import Big Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "101e836a9f50b769",
+   "class": "Pro Import Big Block",
+   "car": "Extreme Import 2",
+   "engine": "6 Cylinder Pro Import Big Block",
+   "engineId": 35,
+   "tire": "Slick36",
+   "carId": 8,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.608,
+   "mph": 256.8034,
+   "sixty": 0.934346735,
+   "date": "2026-11-26T00:05:03",
+   "kind": "fastest"
   },
   {
    "path": "tunes/Pro Import Big Block/Extreme Import 2__turbo__6 Cylinder Pro Import Big Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Converter.json",
