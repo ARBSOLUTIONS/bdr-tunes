@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:22:26",
+ "updated": "2026-11-25T11:30:29",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -7038,6 +7038,24 @@
    "sixty": 1.0291425,
    "date": "2026-11-25T07:34:38",
    "kind": "fastest"
+  },
+  {
+   "path": "tunes/Pro Street/Outlaw 12__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "31df92c44917365d",
+   "class": "Pro Street",
+   "car": "Outlaw 12",
+   "engine": "Pro Street Centrifugal (1)",
+   "engineId": 23,
+   "tire": "Slick105",
+   "carId": 27,
+   "adder": "centrifugal",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.558,
+   "mph": 201.102,
+   "sixty": 1.01361084,
+   "date": "2026-11-25T11:30:25",
+   "kind": "winning"
   },
   {
    "path": "tunes/Pro Street/Outlaw 12__turbo__Pro Street Twin Turbo (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
