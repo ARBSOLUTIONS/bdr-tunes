@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:26:10",
+ "updated": "2026-11-25T19:41:44",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -9003,7 +9003,7 @@
   },
   {
    "path": "tunes/Pro Street/Outlaw 5__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "f0082925d7a73cd0",
+   "sha": "dc51e7557e4f9b92",
    "class": "Pro Street",
    "car": "Outlaw 5",
    "engine": "Pro Street Blower (1)",
@@ -9013,11 +9013,11 @@
    "adder": "blower",
    "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
    "dt": "Clutch",
-   "et": 10.6787,
-   "mph": 171.980743,
-   "sixty": 1.39324474,
-   "date": "2026-11-25T06:59:43",
-   "kind": "fastest"
+   "et": 6.393,
+   "mph": 199.51535,
+   "sixty": 0.9263605,
+   "date": "2026-11-25T19:41:41",
+   "kind": "winning"
   },
   {
    "path": "tunes/Pro Street/Outlaw 5__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
