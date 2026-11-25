@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:58:14",
+ "updated": "2026-11-25T06:59:46",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -7091,6 +7091,24 @@
    "mph": 196.549332,
    "sixty": 0.9805699,
    "date": "2026-11-25T06:42:08",
+   "kind": "fastest"
+  },
+  {
+   "path": "tunes/Pro Street/Outlaw 5__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "f0082925d7a73cd0",
+   "class": "Pro Street",
+   "car": "Outlaw 5",
+   "engine": "Pro Street Blower (1)",
+   "engineId": 21,
+   "tire": "Slick105",
+   "carId": 24,
+   "adder": "blower",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 10.6787,
+   "mph": 171.980743,
+   "sixty": 1.39324474,
+   "date": "2026-11-25T06:59:43",
    "kind": "fastest"
   },
   {
