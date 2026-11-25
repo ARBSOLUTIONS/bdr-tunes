@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:01:43",
+ "updated": "2026-11-25T16:03:37",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -485,6 +485,24 @@
    "mph": 173.407516,
    "sixty": 1.06735563,
    "date": "2026-11-25T15:34:27",
+   "kind": "winning"
+  },
+  {
+   "path": "tunes/Limited Street/Outlaw 17__turbo__Limited Single Turbo (1)__Radial235/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "1f419c2d2bbd1488",
+   "class": "Limited Street",
+   "car": "Outlaw 17",
+   "engine": "Limited Single Turbo (1)",
+   "engineId": 28,
+   "tire": "Radial235",
+   "carId": 20,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 7.2189,
+   "mph": 173.199646,
+   "sixty": 1.04279244,
+   "date": "2026-11-25T16:03:34",
    "kind": "winning"
   },
   {
