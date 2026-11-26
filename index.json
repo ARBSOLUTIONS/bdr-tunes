@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:34:59",
+ "updated": "2026-11-26T15:37:07",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -361,6 +361,25 @@
    "date": "2026-11-26T15:32:55",
    "kind": "fastest",
    "preset": "presets/BDR - Outlaw 5 - Factory X - Clutch - 7.077.json"
+  },
+  {
+   "path": "tunes/Factory X/Outlaw 6__na__Factory X__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "ca5f000b65255e41",
+   "class": "Factory X",
+   "car": "Outlaw 6",
+   "engine": "Factory X",
+   "engineId": 31,
+   "tire": "Slick105",
+   "carId": 23,
+   "adder": "na",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 7.0768,
+   "mph": 174.854874,
+   "sixty": 0.9382532,
+   "date": "2026-11-26T15:36:53",
+   "kind": "fastest",
+   "preset": "presets/BDR - Outlaw 6 - Factory X - Clutch - 7.077.json"
   },
   {
    "path": "tunes/Grudge Bike/Grudge Bike 2__nitrous__GrudgeNitrousEngine__Radial235/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
