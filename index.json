@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:47:44",
+ "updated": "2026-11-26T09:54:21",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -969,6 +969,25 @@
    "date": "2026-11-25T15:35:11",
    "kind": "winning",
    "preset": "presets/BDR - Outlaw 9 - Limited Single Turbo (1) - Clutch - 7.266.json"
+  },
+  {
+   "path": "tunes/Modified Import Big Block/Modified Import 10__turbo__6 Cylinder Pro Import Big Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "deab19b526760b5d",
+   "class": "Modified Import Big Block",
+   "car": "Modified Import 10",
+   "engine": "6 Cylinder Pro Import Big Block",
+   "engineId": 39,
+   "tire": "Slick36",
+   "carId": 114,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.0382,
+   "mph": 228.024658,
+   "sixty": 0.9617366,
+   "date": "2026-11-26T09:54:09",
+   "kind": "winning",
+   "preset": "presets/BDR - Modified Import 10 - 6 Cylinder Pro Import Big Block - Clutch - 6.038.json"
   },
   {
    "path": "tunes/Modified Import Big Block/Modified Import 1__turbo__6 Cylinder Pro Import Big Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
