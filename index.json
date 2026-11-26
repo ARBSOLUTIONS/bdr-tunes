@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:53:32",
+ "updated": "2026-11-26T17:58:22",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -10013,6 +10013,25 @@
    "date": "2026-11-26T17:52:21",
    "kind": "winning",
    "preset": "presets/BDR - Pro Stock Retro 1 - Engine Pro Stock - Clutch - 6.497.json"
+  },
+  {
+   "path": "tunes/Pro Stock/Pro Stock Retro 2__na__Engine Pro Stock__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "7e8d3534bae5e788",
+   "class": "Pro Stock",
+   "car": "Pro Stock Retro 2",
+   "engine": "Engine Pro Stock",
+   "engineId": 32,
+   "tire": "Slick36",
+   "carId": 129,
+   "adder": "na",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.4968,
+   "mph": 207.3643,
+   "sixty": 0.983046353,
+   "date": "2026-11-26T17:57:41",
+   "kind": "winning",
+   "preset": "presets/BDR - Pro Stock Retro 2 - Engine Pro Stock - Clutch - 6.497.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 10__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
