@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:56:39",
+ "updated": "2026-11-26T19:01:53",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -779,6 +779,25 @@
    "date": "2026-11-26T18:56:27",
    "kind": "winning",
    "preset": "presets/BDR - Modified Import 5 - 6 Cylinder X275 (1) - Clutch - 6.361.json"
+  },
+  {
+   "path": "tunes/Import Street Rod/Modified Import 6__turbo__6 Cylinder X275 (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "c453c299dc26003c",
+   "class": "Import Street Rod",
+   "car": "Modified Import 6",
+   "engine": "6 Cylinder X275 (1)",
+   "engineId": 138,
+   "tire": "Radial275",
+   "carId": 112,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.958,
+   "mph": 218.744186,
+   "sixty": 1.11016858,
+   "date": "2026-11-26T19:01:40",
+   "kind": "fastest",
+   "preset": "presets/BDR - Modified Import 6 - 6 Cylinder X275 (1) - Clutch - 6.958.json"
   },
   {
    "path": "tunes/Limited Street/Outlaw 10__turbo__Limited Single Turbo (1)__Radial235/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
