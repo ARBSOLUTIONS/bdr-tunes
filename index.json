@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:43:41",
+ "updated": "2026-11-26T15:46:32",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -2166,6 +2166,25 @@
    "date": "2026-11-26T13:49:22",
    "kind": "winning",
    "preset": "presets/BDR - Outlaw 25 - Outlaw 275 Centrifugal (1) - Clutch - 5.613.json"
+  },
+  {
+   "path": "tunes/Outlaw 275/Outlaw 25__nitrous__Outlaw 275 Nitrous (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "4ddba72ed3ccfdb0",
+   "class": "Outlaw 275",
+   "car": "Outlaw 25",
+   "engine": "Outlaw 275 Nitrous (1)",
+   "engineId": 131,
+   "tire": "Radial275",
+   "carId": 118,
+   "adder": "nitrous",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.5771,
+   "mph": 233.1622,
+   "sixty": 0.8385807,
+   "date": "2026-11-26T15:46:19",
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 25 - Outlaw 275 Nitrous (1) - Clutch - 5.577.json"
   },
   {
    "path": "tunes/Outlaw 275/Outlaw 25__turbo__Outlaw 275 Twin Turbo (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
