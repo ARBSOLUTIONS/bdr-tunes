@@ -1,6 +1,6 @@
 {
- "version": "1.0.9",
- "zip": "BDR-Setup-Loader-1.0.9.zip",
- "sha": "d42940af38e3833c398f21f42c6839045f8543c93b181a1c8eaee5dc3a8b94ac",
- "notes": "Werkt weer met de game-update van 22 november (Unity 6). De oude plugin liet de game bij het opstarten crashen; deze versie werkt de plugin mee bij. Sluit eerst de game en klik dan op Update. Ook: de autoplaatjes worden weer uit de game gehaald (nieuwe plek in de game-bestanden)."
+ "version": "1.0.10",
+ "zip": "BDR-Setup-Loader-1.0.10.zip",
+ "sha": "7069098de136b5bf7727c5aacf0c8b129155797aaea259d4af5acf81931a0121",
+ "notes": "BDR Setup Loader 1.0.10\n\nNew in this version:\n- One Apply button. Apply puts the setup in the game and saves it as a preset in your game's tune list right away, no restart needed. The preset name is copied to your clipboard.\n- New, smaller plugin that only reads your active car and applies setups. Close the game before you update.\n- Search matches every word you type. Try \"pro mod turbo\" or \"camaro converter\".\n- Class pages have a filter box and a \"Best per car\" switch that keeps only the quickest setup for each car.\n- Browse by Car: every car with its setup count, class count, fastest ET and top speed. Click a car to see all its setups in every class.\n- Compare: put two setups side by side, with ET, trap speed, 60ft, 330ft, 1/8 mile, wins, ET spread, shift light, weight and every setting that differs.\n- Tune details show validation passes and ET spread, the chassis and engine profile, and a gear ratio and shift point table.\n- Copy Web Link and Copy Discord Summary share a setup. Copy Compare Link shares a comparison.\n- Removed: the in-game F9 list and taking car photos in the game. Car photos come with the tunes."
 }
