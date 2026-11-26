@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:05:41",
+ "updated": "2026-11-26T18:17:45",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -399,6 +399,25 @@
    "date": "2026-11-26T17:53:18",
    "kind": "winning",
    "preset": "presets/BDR - Outlaw 17 - Factory X - Clutch - 7.059.json"
+  },
+  {
+   "path": "tunes/Factory X/Outlaw 18__na__Factory X__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "a0fe1661a7e2b4d0",
+   "class": "Factory X",
+   "car": "Outlaw 18",
+   "engine": "Factory X",
+   "engineId": 31,
+   "tire": "Slick105",
+   "carId": 63,
+   "adder": "na",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 7.0602,
+   "mph": 173.936951,
+   "sixty": 0.948001266,
+   "date": "2026-11-26T18:17:35",
+   "kind": "fastest",
+   "preset": "presets/BDR - Outlaw 18 - Factory X - Clutch - 7.060.json"
   },
   {
    "path": "tunes/Factory X/Outlaw 1__na__Factory X__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -10072,6 +10091,25 @@
    "preset": "presets/BDR - Pro Stock Retro 3 - Engine Pro Stock - Clutch - 6.496.json"
   },
   {
+   "path": "tunes/Pro Stock/Pro Stock Retro 4__na__Engine Pro Stock__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "f75248185ea9c314",
+   "class": "Pro Stock",
+   "car": "Pro Stock Retro 4",
+   "engine": "Engine Pro Stock",
+   "engineId": 32,
+   "tire": "Slick36",
+   "carId": 131,
+   "adder": "na",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.6431,
+   "mph": 207.032532,
+   "sixty": 1.03822041,
+   "date": "2026-11-26T18:17:31",
+   "kind": "fastest",
+   "preset": "presets/BDR - Pro Stock Retro 4 - Engine Pro Stock - Clutch - 6.643.json"
+  },
+  {
    "path": "tunes/Pro Street/Outlaw 10__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
    "sha": "88739c38a89e173a",
    "class": "Pro Street",
@@ -17013,25 +17051,4 @@
   "95_3": "10c567c276c44a5e",
   "95_84": "4a30686a203939c3",
   "95_85": "2061e4a5475e1d33",
-  "95_86": "029c63868885414f",
-  "95_87": "05a5ca8c6cc24653",
-  "9_0": "5431968ab51db8b4",
-  "9_1": "33899b1da88fe11e",
-  "9_124": "3f6443a1e3d2e424",
-  "9_126": "0104293e63df7ad3",
-  "9_128": "45be89913f35b135",
-  "9_130": "149b609ea44aba9f",
-  "9_2": "4adaf34b55e83797",
-  "9_3": "f5b90a120abcf9c4",
-  "9_4": "c52222997a1df384",
-  "9_5": "73e55858e4a31a9f",
-  "9_6": "476945fb79d64d5c",
-  "9_7": "0565fe6d8a80bc6b",
-  "9_8": "8dc8149550169961",
-  "9_84": "6c316176b11f0392",
-  "9_85": "c5669ca58ea64b48",
-  "9_86": "f96122d01117d09c",
-  "9_87": "9676eeed53f1814f",
-  "9_9": "e99d8e059c742ef2"
- }
-}
+  "95_86": "0
