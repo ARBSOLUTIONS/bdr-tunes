@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:23:38",
+ "updated": "2026-11-26T03:29:31",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1263,7 +1263,7 @@
   },
   {
    "path": "tunes/Outlaw 275/Pro Mod 13__blower__Outlaw 275 Blower (2)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
-   "sha": "8b22f08484bbea1a",
+   "sha": "9aa9935b6eaff40d",
    "class": "Outlaw 275",
    "car": "Pro Mod 13",
    "engine": "Outlaw 275 Blower (2)",
@@ -1273,11 +1273,11 @@
    "adder": "blower",
    "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
    "dt": "Clutch",
-   "et": 7.3023,
-   "mph": 223.891983,
-   "sixty": 1.2989943,
-   "date": "2026-11-26T00:47:56",
-   "kind": "fastest"
+   "et": 5.5827,
+   "mph": 237.601181,
+   "sixty": 0.8478426,
+   "date": "2026-11-26T03:29:27",
+   "kind": "winning"
   },
   {
    "path": "tunes/Outlaw 275/Pro Mod 1__blower__Outlaw 275 Blower (2)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
