@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:32:31",
+ "updated": "2026-11-26T09:38:19",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -10716,6 +10716,25 @@
    "date": "2026-11-25T09:22:04",
    "kind": "winning",
    "preset": "presets/BDR - Outlaw 9 - Pro Street Twin Turbo (1) - Clutch - 6.280.json"
+  },
+  {
+   "path": "tunes/Radial 315/Pro Mod 10__blower__315 Blower (1)__Radial315/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "e0c961a72845e411",
+   "class": "Radial 315",
+   "car": "Pro Mod 10",
+   "engine": "315 Blower (1)",
+   "engineId": 4,
+   "tire": "Radial315",
+   "carId": 34,
+   "adder": "blower",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.6334,
+   "mph": 235.59584,
+   "sixty": 0.853651047,
+   "date": "2026-11-26T09:38:08",
+   "kind": "winning",
+   "preset": "presets/BDR - Pro Mod 10 - 315 Blower (1) - Clutch - 5.633.json"
   },
   {
    "path": "tunes/Radial 315/Pro Mod 1__blower__315 Blower (1)__Radial315/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
