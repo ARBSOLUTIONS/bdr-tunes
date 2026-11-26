@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:04:47",
+ "updated": "2026-11-26T07:18:44",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12615,6 +12615,25 @@
    "date": "2026-11-17T05:54:09",
    "kind": "winning",
    "preset": "presets/BDR - Outlaw 8 - True 10.5 Blower - Clutch - 6.525.json"
+  },
+  {
+   "path": "tunes/True 10.5/Outlaw 8__centrifugal__True 10.5 Centrifugal (2)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "3375b8b20fcb3f41",
+   "class": "True 10.5",
+   "car": "Outlaw 8",
+   "engine": "True 10.5 Centrifugal (2)",
+   "engineId": 136,
+   "tire": "Slick105",
+   "carId": 47,
+   "adder": "centrifugal",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.4611,
+   "mph": 204.598,
+   "sixty": 0.99389267,
+   "date": "2026-11-26T07:18:33",
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 8 - True 10.5 Centrifugal (2) - Clutch - 6.461.json"
   },
   {
    "path": "tunes/True 10.5/Outlaw 8__turbo__True 10.5 Twin Turbo (2)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
