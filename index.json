@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:12:52",
+ "updated": "2026-11-26T19:18:46",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -646,6 +646,25 @@
    "date": "2026-11-14T23:04:15",
    "kind": "winning",
    "preset": "presets/BDR - Grudge Bike 2 - GrudgeTurboEngine - Clutch - 6.485.json"
+  },
+  {
+   "path": "tunes/Import Street Rod/Modified Import 10__turbo__6 Cylinder X275 (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "7ad79f7b37e2b8e9",
+   "class": "Import Street Rod",
+   "car": "Modified Import 10",
+   "engine": "6 Cylinder X275 (1)",
+   "engineId": 138,
+   "tire": "Radial275",
+   "carId": 114,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.3615,
+   "mph": 225.415268,
+   "sixty": 1.05026925,
+   "date": "2026-11-26T19:18:32",
+   "kind": "winning",
+   "preset": "presets/BDR - Modified Import 10 - 6 Cylinder X275 (1) - Clutch - 6.362.json"
   },
   {
    "path": "tunes/Import Street Rod/Modified Import 1__turbo__2 Rotor Pro Import Small Block (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
