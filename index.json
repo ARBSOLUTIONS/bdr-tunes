@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:20:13",
+ "updated": "2026-11-26T13:20:18",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1444,6 +1444,25 @@
    "date": "2026-11-26T11:08:42",
    "kind": "winning",
    "preset": "presets/BDR - Modified Import 7 - 3 Rotor Pro Import Small Block - Clutch - 6.085.json"
+  },
+  {
+   "path": "tunes/Modified Import Small Block/Modified Import 8__turbo__2 Rotor Pro Import Small Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "4a249df14c712105",
+   "class": "Modified Import Small Block",
+   "car": "Modified Import 8",
+   "engine": "2 Rotor Pro Import Small Block",
+   "engineId": 41,
+   "tire": "Slick36",
+   "carId": 41,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.0574,
+   "mph": 227.515579,
+   "sixty": 0.9741275,
+   "date": "2026-11-26T13:20:06",
+   "kind": "fastest",
+   "preset": "presets/BDR - Modified Import 8 - 2 Rotor Pro Import Small Block - Clutch - 6.057.json"
   },
   {
    "path": "tunes/Modified Import Small Block/Modified Import 8__turbo__3 Rotor Pro Import Small Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -10904,7 +10923,8 @@
    "mph": 203.102524,
    "sixty": 0.961021364,
    "date": "2026-11-25T08:34:41",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 4 - Pro Street Twin Turbo (1) - Clutch - 6.400.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 5__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -10922,7 +10942,8 @@
    "mph": 199.51535,
    "sixty": 0.9263605,
    "date": "2026-11-25T19:41:41",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 5 - Pro Street Blower (1) - Clutch - 6.393.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 5__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
