@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:39:58",
+ "updated": "2026-11-26T17:43:54",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -342,6 +342,25 @@
    "date": "2026-11-26T17:39:15",
    "kind": "fastest",
    "preset": "presets/BDR - Outlaw 14 - Factory X - Clutch - 7.063.json"
+  },
+  {
+   "path": "tunes/Factory X/Outlaw 15__na__Factory X__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "eb912afbe929ed73",
+   "class": "Factory X",
+   "car": "Outlaw 15",
+   "engine": "Factory X",
+   "engineId": 31,
+   "tire": "Slick105",
+   "carId": 70,
+   "adder": "na",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 7.0568,
+   "mph": 174.373886,
+   "sixty": 0.939725935,
+   "date": "2026-11-26T17:43:40",
+   "kind": "fastest",
+   "preset": "presets/BDR - Outlaw 15 - Factory X - Clutch - 7.057.json"
   },
   {
    "path": "tunes/Factory X/Outlaw 1__na__Factory X__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -9918,6 +9937,25 @@
    "date": "2026-11-26T17:39:45",
    "kind": "winning",
    "preset": "presets/BDR - Pro Stock 4 - Engine Pro Stock - Clutch - 6.499.json"
+  },
+  {
+   "path": "tunes/Pro Stock/Pro Stock 5__na__Engine Pro Stock__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "3df657eb6164df98",
+   "class": "Pro Stock",
+   "car": "Pro Stock 5",
+   "engine": "Engine Pro Stock",
+   "engineId": 32,
+   "tire": "Slick36",
+   "carId": 38,
+   "adder": "na",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.4933,
+   "mph": 207.548187,
+   "sixty": 0.9832085,
+   "date": "2026-11-26T17:43:44",
+   "kind": "winning",
+   "preset": "presets/BDR - Pro Stock 5 - Engine Pro Stock - Clutch - 6.493.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 10__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
