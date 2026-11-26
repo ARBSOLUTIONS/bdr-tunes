@@ -5,9 +5,9 @@
   "RevCutoffTime": 0.01,
   "MaxOutput": 0.0,
   "WheelieBarMinimum": -4.0,
-  "WheelieControl1": 22,
-  "WheelieControl2": 22,
-  "WheelieControl3": 22,
+  "WheelieControl1": 0.0,
+  "WheelieControl2": 0.0,
+  "WheelieControl3": 0.0,
   "WheelieBarMaximum": 0.0,
   "WheelSpacing": 0.0,
   "WheelSpacingFront": 0.0,
@@ -76,7 +76,7 @@
   "Boost5": 1.0,
   "Boost6": 1.0,
   "Boost7": 1.0,
-  "Timing19": 5.4,
+  "Timing19": 30.0,
   "WheelieBarHeight": 0.5,
   "GC": 0.0,
   "COM": -0.5,
@@ -146,5 +146,5 @@
   "ConverterAmount4": 94.0,
   "ConverterAmount5": 97.0,
   "ConverterAmount6": 100.0,
-  "Name": "BDR - Pro Stock 1 - Engine Pro Stock - Clutch - 6.499"
+  "Name": "BDR - Pro Stock 1 - Engine Pro Stock - Clutch - 6.498"
 }
