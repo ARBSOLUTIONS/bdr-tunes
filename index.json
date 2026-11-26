@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:16:03",
+ "updated": "2026-11-26T13:20:13",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -10904,8 +10904,7 @@
    "mph": 203.102524,
    "sixty": 0.961021364,
    "date": "2026-11-25T08:34:41",
-   "kind": "winning",
-   "preset": "presets/BDR - Outlaw 4 - Pro Street Twin Turbo (1) - Clutch - 6.400.json"
+   "kind": "winning"
   },
   {
    "path": "tunes/Pro Street/Outlaw 5__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -10923,8 +10922,7 @@
    "mph": 199.51535,
    "sixty": 0.9263605,
    "date": "2026-11-25T19:41:41",
-   "kind": "winning",
-   "preset": "presets/BDR - Outlaw 5 - Pro Street Blower (1) - Clutch - 6.393.json"
+   "kind": "winning"
   },
   {
    "path": "tunes/Pro Street/Outlaw 5__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -11970,6 +11968,25 @@
    "date": "2026-11-26T09:04:24",
    "kind": "fastest",
    "preset": "presets/BDR - Pro Mod 7 - 315 Blower (1) - Clutch - 5.651.json"
+  },
+  {
+   "path": "tunes/Radial 315/Pro Mod 7__centrifugal__315 Centrifugal (1)__Radial315/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "0e8be0e85f199b80",
+   "class": "Radial 315",
+   "car": "Pro Mod 7",
+   "engine": "315 Centrifugal (1)",
+   "engineId": 6,
+   "tire": "Radial315",
+   "carId": 55,
+   "adder": "centrifugal",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.5816,
+   "mph": 240.638748,
+   "sixty": 0.85416317,
+   "date": "2026-11-26T13:20:00",
+   "kind": "winning",
+   "preset": "presets/BDR - Pro Mod 7 - 315 Centrifugal (1) - Clutch - 5.582.json"
   },
   {
    "path": "tunes/Radial 315/Pro Mod 7__turbo__315 Turbo (1)__Radial315/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
