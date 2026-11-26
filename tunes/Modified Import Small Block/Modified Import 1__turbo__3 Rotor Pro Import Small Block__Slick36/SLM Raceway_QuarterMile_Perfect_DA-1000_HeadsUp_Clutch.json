@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": null,
-  "date": "2026-11-13T07:39:43",
-  "eighth": 3.97273421,
-  "et": 6.1586,
-  "mph": 228.209717,
+  "aiEt": 6.0794219970703125,
+  "date": "2026-11-26T10:16:39",
+  "eighth": 3.87703848,
+  "et": 6.0547,
+  "mph": 228.650269,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 10450.0,
@@ -47,8 +47,8 @@
    "shiftLightRPM": 9700.0,
    "shiftType": 1
   },
-  "sixty": 1.03413641,
-  "threeThirty": 2.66483569,
+  "sixty": 0.9755269,
+  "threeThirty": 2.57976151,
   "tune": {
    "Boost1": 1.18,
    "Boost2": 1.27,
@@ -129,7 +129,7 @@
    "Timing16": 30.0,
    "Timing17": 30.0,
    "Timing18": 30.0,
-   "Timing19": 20.5,
+   "Timing19": 30.0,
    "Timing2": 23.3,
    "Timing3": 26.0,
    "Timing4": 28.1,
@@ -148,16 +148,18 @@
    "WheelieControl3": 0
   },
   "validation": {
-   "aiEtMean": 6.0478,
-   "count": 3,
+   "aiEtMean": 6.1108,
+   "count": 5,
    "ets": [
-    6.29778528213501,
-    6.133520603179932,
-    6.158607482910156
+    6.054660797119141,
+    6.055721759796143,
+    6.053372383117676,
+    6.055039405822754,
+    6.053706645965576
    ],
-   "maxLateral": 1.935724,
+   "maxLateral": 0.0836759657,
    "passed": true,
-   "wins": 2
+   "wins": 5
   }
  },
  "identity": {
@@ -390,11 +392,11 @@
   "weight": 1370.0
  },
  "winning": {
-  "aiEt": null,
-  "date": "2026-11-13T07:39:43",
-  "eighth": 3.97273421,
-  "et": 6.1586,
-  "mph": 228.209717,
+  "aiEt": 6.0794219970703125,
+  "date": "2026-11-26T10:16:39",
+  "eighth": 3.87703848,
+  "et": 6.0547,
+  "mph": 228.650269,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 10450.0,
@@ -402,8 +404,8 @@
    "shiftLightRPM": 9700.0,
    "shiftType": 1
   },
-  "sixty": 1.03413641,
-  "threeThirty": 2.66483569,
+  "sixty": 0.9755269,
+  "threeThirty": 2.57976151,
   "tune": {
    "Boost1": 1.18,
    "Boost2": 1.27,
@@ -484,7 +486,7 @@
    "Timing16": 30.0,
    "Timing17": 30.0,
    "Timing18": 30.0,
-   "Timing19": 20.5,
+   "Timing19": 30.0,
    "Timing2": 23.3,
    "Timing3": 26.0,
    "Timing4": 28.1,
@@ -503,16 +505,18 @@
    "WheelieControl3": 0
   },
   "validation": {
-   "aiEtMean": 6.0478,
-   "count": 3,
+   "aiEtMean": 6.1108,
+   "count": 5,
    "ets": [
-    6.29778528213501,
-    6.133520603179932,
-    6.158607482910156
+    6.054660797119141,
+    6.055721759796143,
+    6.053372383117676,
+    6.055039405822754,
+    6.053706645965576
    ],
-   "maxLateral": 1.935724,
+   "maxLateral": 0.0836759657,
    "passed": true,
-   "wins": 2
+   "wins": 5
   }
  }
 }
