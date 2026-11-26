@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:01:43",
+ "updated": "2026-11-26T09:02:08",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1026,6 +1026,25 @@
    "date": "2026-11-26T08:43:06",
    "kind": "winning",
    "preset": "presets/BDR - Modified Import 3 - 6 Cylinder Pro Import Big Block - Clutch - 6.034.json"
+  },
+  {
+   "path": "tunes/Modified Import Big Block/Modified Import 5__turbo__6 Cylinder Pro Import Big Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "e1abe3fd21a39e42",
+   "class": "Modified Import Big Block",
+   "car": "Modified Import 5",
+   "engine": "6 Cylinder Pro Import Big Block",
+   "engineId": 39,
+   "tire": "Slick36",
+   "carId": 111,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.0408,
+   "mph": 228.015274,
+   "sixty": 0.9663566,
+   "date": "2026-11-26T09:01:57",
+   "kind": "winning",
+   "preset": "presets/BDR - Modified Import 5 - 6 Cylinder Pro Import Big Block - Clutch - 6.041.json"
   },
   {
    "path": "tunes/Modified Import Small Block/Modified Import 1__turbo__2 Rotor Pro Import Small Block__Slick36/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
