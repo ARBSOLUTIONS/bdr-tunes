@@ -1,6 +1,6 @@
 {
- "version": "1.0.10",
- "zip": "BDR-Setup-Loader-1.0.10.zip",
- "sha": "7069098de136b5bf7727c5aacf0c8b129155797aaea259d4af5acf81931a0121",
- "notes": "BDR Setup Loader 1.0.10\n\nNew in this version:\n- One Apply button. Apply puts the setup in the game and saves it as a preset in your game's tune list right away, no restart needed. The preset name is copied to your clipboard.\n- New, smaller plugin that only reads your active car and applies setups. Close the game before you update.\n- Search matches every word you type. Try \"pro mod turbo\" or \"camaro converter\".\n- Class pages have a filter box and a \"Best per car\" switch that keeps only the quickest setup for each car.\n- Browse by Car: every car with its setup count, class count, fastest ET and top speed. Click a car to see all its setups in every class.\n- Compare: put two setups side by side, with ET, trap speed, 60ft, 330ft, 1/8 mile, wins, ET spread, shift light, weight and every setting that differs.\n- Tune details show validation passes and ET spread, the chassis and engine profile, and a gear ratio and shift point table.\n- Copy Web Link and Copy Discord Summary share a setup. Copy Compare Link shares a comparison.\n- Removed: the in-game F9 list and taking car photos in the game. Car photos come with the tunes."
+ "version": "1.0.11",
+ "zip": "BDR-Setup-Loader-1.0.11.zip",
+ "sha": "0c0eda613ac2818cbba4e92e370b80de9fac465298775cfb2d0bcabdee5b17b2",
+ "notes": "BDR Setup Loader 1.0.11\n\nNew in this version:\n- Download all as ZIP: put every saved tune file in one ZIP from the Saved page.\n- Support button: BDR Tunes is free. Donations go toward DLC cars we do not own yet, so we can tune them too, plus hosting.\n- A short notice at the top says the app is still a work in progress. Close it with the X."
 }
