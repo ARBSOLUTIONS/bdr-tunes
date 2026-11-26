@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:30:27",
+ "updated": "2026-11-26T12:33:39",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1843,6 +1843,25 @@
    "date": "2026-11-26T10:44:26",
    "kind": "winning",
    "preset": "presets/BDR - Outlaw 33 - Outlaw 275 Blower (1) - Clutch - 5.663.json"
+  },
+  {
+   "path": "tunes/Outlaw 275/Outlaw 33__turbo__Outlaw 275 Twin Turbo (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "1bce87edba368816",
+   "class": "Outlaw 275",
+   "car": "Outlaw 33",
+   "engine": "Outlaw 275 Twin Turbo (1)",
+   "engineId": 127,
+   "tire": "Radial275",
+   "carId": 146,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.5632,
+   "mph": 236.342224,
+   "sixty": 0.834283531,
+   "date": "2026-11-26T12:33:27",
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 33 - Outlaw 275 Twin Turbo (1) - Clutch - 5.563.json"
   },
   {
    "path": "tunes/Outlaw 275/Outlaw 9__blower__Outlaw 275 Blower (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
