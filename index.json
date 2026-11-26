@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:08:26",
+ "updated": "2026-11-26T14:09:47",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -11704,6 +11704,25 @@
    "date": "2026-11-26T10:23:49",
    "kind": "winning",
    "preset": "presets/BDR - Pro Mod 14 - 315 Blower (1) - Clutch - 5.600.json"
+  },
+  {
+   "path": "tunes/Radial 315/Pro Mod 14__centrifugal__315 Centrifugal (1)__Radial315/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "17ce49aaa76eecad",
+   "class": "Radial 315",
+   "car": "Pro Mod 14",
+   "engine": "315 Centrifugal (1)",
+   "engineId": 6,
+   "tire": "Radial315",
+   "carId": 94,
+   "adder": "centrifugal",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 5.5741,
+   "mph": 240.584412,
+   "sixty": 0.852829933,
+   "date": "2026-11-26T14:09:35",
+   "kind": "winning",
+   "preset": "presets/BDR - Pro Mod 14 - 315 Centrifugal (1) - Clutch - 5.574.json"
   },
   {
    "path": "tunes/Radial 315/Pro Mod 14__turbo__315 Turbo (1)__Radial315/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
