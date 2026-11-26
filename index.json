@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:42:13",
+ "updated": "2026-11-26T05:54:49",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -11214,6 +11214,24 @@
    "sixty": 1.05792391,
    "date": "2026-11-26T04:01:44",
    "kind": "fastest"
+  },
+  {
+   "path": "tunes/True 10.5/Outlaw 19__turbo__True 10.5 Twin Turbo (2)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "280896f09901e2ff",
+   "class": "True 10.5",
+   "car": "Outlaw 19",
+   "engine": "True 10.5 Twin Turbo (2)",
+   "engineId": 135,
+   "tire": "Slick105",
+   "carId": 82,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.4287,
+   "mph": 208.521454,
+   "sixty": 1.02214515,
+   "date": "2026-11-26T05:54:45",
+   "kind": "winning"
   },
   {
    "path": "tunes/True 10.5/Outlaw 1__blower__True 10.5 Blower__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
