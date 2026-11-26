@@ -1,6 +1,6 @@
 {
- "version": "1.0.11",
- "zip": "BDR-Setup-Loader-1.0.11.zip",
- "sha": "0c0eda613ac2818cbba4e92e370b80de9fac465298775cfb2d0bcabdee5b17b2",
- "notes": "BDR Setup Loader 1.0.11\n\nNew in this version:\n- Download all as ZIP: put every saved tune file in one ZIP from the Saved page.\n- Support button: BDR Tunes is free. Donations go toward DLC cars we do not own yet, so we can tune them too, plus hosting.\n- A short notice at the top says the app is still a work in progress. Close it with the X."
+ "version": "1.0.12",
+ "zip": "BDR-Setup-Loader-1.0.12.zip",
+ "sha": "c54bf7d7dc9df1fb98c3a7bd2952de77d215ae79ba6d52bb3af90c2c232b586f",
+ "notes": "BDR Setup Loader 1.0.12\n\nNew in this version:\n- Download preset: the download button now gives the game's own preset file (for example \"BDR - Pro Mod 10 - Pro Mod Blower (1) - Clutch - 5.225.json\"). Put it in Documents\\BountyDragRacing\\Tunes before you start the game, then pick it in the preset list of the tuning menu.\n- Download all as ZIP on the Saved page now holds these preset files. Unzip it into Documents\\BountyDragRacing\\Tunes.\n\nInstalled apps update themselves via the button in the top bar. For a fresh install, close the game and the Setup Loader, start `BDR-Setup-Loader-Installer-1.0.12.exe` and click Install."
 }
