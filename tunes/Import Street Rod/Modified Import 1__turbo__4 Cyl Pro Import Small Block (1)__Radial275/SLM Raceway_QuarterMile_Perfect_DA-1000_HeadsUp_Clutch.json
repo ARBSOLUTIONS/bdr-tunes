@@ -35,11 +35,11 @@
   "trackIndex": 0
  },
  "fastest": {
-  "aiEt": null,
-  "date": "2026-11-13T07:34:58",
-  "eighth": 4.3432045,
-  "et": 6.5754,
-  "mph": 224.442154,
+  "aiEt": 6.449259281158447,
+  "date": "2026-11-27T01:54:02",
+  "eighth": 4.18868,
+  "et": 6.4096,
+  "mph": 225.1748,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 11100.0,
@@ -47,8 +47,8 @@
    "shiftLightRPM": 10450.0,
    "shiftType": 1
   },
-  "sixty": 1.15190268,
-  "threeThirty": 2.96227431,
+  "sixty": 1.07062232,
+  "threeThirty": 2.83070087,
   "tune": {
    "Boost1": 1.18,
    "Boost2": 1.27,
@@ -107,7 +107,7 @@
    "Ratio5": 2.0,
    "Ratio6": 1.625,
    "Ratio7": 1.325,
-   "RatioF": 2.2,
+   "RatioF": 2.25,
    "RevCutoffTime": 0.01,
    "Shift1": 10650.0,
    "Shift2": 10650.0,
@@ -129,7 +129,7 @@
    "Timing16": 30.0,
    "Timing17": 30.0,
    "Timing18": 30.0,
-   "Timing19": 17.7,
+   "Timing19": 30.0,
    "Timing2": 30.0,
    "Timing3": 30.0,
    "Timing4": 30.0,
@@ -143,21 +143,23 @@
    "WheelSpacingFront": 0.0,
    "WheelieBarMaximum": 0.0,
    "WheelieBarMinimum": -4.0,
-   "WheelieControl1": 37,
-   "WheelieControl2": 37,
-   "WheelieControl3": 37
+   "WheelieControl1": 0.0,
+   "WheelieControl2": 0.0,
+   "WheelieControl3": 0.0
   },
   "validation": {
-   "aiEtMean": 7.2257,
-   "count": 3,
+   "aiEtMean": 6.4624,
+   "count": 5,
    "ets": [
-    6.663023948669434,
-    6.575448989868164,
-    6.516223907470703
+    6.409291744232178,
+    6.41043758392334,
+    6.40964412689209,
+    6.410015106201172,
+    6.4075446128845215
    ],
-   "maxLateral": 0.2523454,
+   "maxLateral": 0.152071878,
    "passed": true,
-   "wins": 3
+   "wins": 5
   }
  },
  "identity": {
@@ -390,11 +392,11 @@
   "weight": 1370.0
  },
  "winning": {
-  "aiEt": null,
-  "date": "2026-11-13T07:34:58",
-  "eighth": 4.3432045,
-  "et": 6.5754,
-  "mph": 224.442154,
+  "aiEt": 6.449259281158447,
+  "date": "2026-11-27T01:54:02",
+  "eighth": 4.18868,
+  "et": 6.4096,
+  "mph": 225.1748,
   "shifting": {
    "manualShiftAt": null,
    "maxRPM": 11100.0,
@@ -402,8 +404,8 @@
    "shiftLightRPM": 10450.0,
    "shiftType": 1
   },
-  "sixty": 1.15190268,
-  "threeThirty": 2.96227431,
+  "sixty": 1.07062232,
+  "threeThirty": 2.83070087,
   "tune": {
    "Boost1": 1.18,
    "Boost2": 1.27,
@@ -462,7 +464,7 @@
    "Ratio5": 2.0,
    "Ratio6": 1.625,
    "Ratio7": 1.325,
-   "RatioF": 2.2,
+   "RatioF": 2.25,
    "RevCutoffTime": 0.01,
    "Shift1": 10650.0,
    "Shift2": 10650.0,
@@ -484,7 +486,7 @@
    "Timing16": 30.0,
    "Timing17": 30.0,
    "Timing18": 30.0,
-   "Timing19": 17.7,
+   "Timing19": 30.0,
    "Timing2": 30.0,
    "Timing3": 30.0,
    "Timing4": 30.0,
@@ -498,21 +500,23 @@
    "WheelSpacingFront": 0.0,
    "WheelieBarMaximum": 0.0,
    "WheelieBarMinimum": -4.0,
-   "WheelieControl1": 37,
-   "WheelieControl2": 37,
-   "WheelieControl3": 37
+   "WheelieControl1": 0.0,
+   "WheelieControl2": 0.0,
+   "WheelieControl3": 0.0
   },
   "validation": {
-   "aiEtMean": 7.2257,
-   "count": 3,
+   "aiEtMean": 6.4624,
+   "count": 5,
    "ets": [
-    6.663023948669434,
-    6.575448989868164,
-    6.516223907470703
+    6.409291744232178,
+    6.41043758392334,
+    6.40964412689209,
+    6.410015106201172,
+    6.4075446128845215
    ],
-   "maxLateral": 0.2523454,
+   "maxLateral": 0.152071878,
    "passed": true,
-   "wins": 3
+   "wins": 5
   }
  }
 }
