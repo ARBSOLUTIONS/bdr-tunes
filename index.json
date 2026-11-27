@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:35:25",
+ "updated": "2026-11-27T02:44:00",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -17329,6 +17329,25 @@
    "preset": "presets/BDR - Outlaw 3 - X 275 Blower - Clutch - 6.695.json"
   },
   {
+   "path": "tunes/X275/Outlaw 4__blower__X 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "00fa9f4e49426e1b",
+   "class": "X275",
+   "car": "Outlaw 4",
+   "engine": "X 275 Blower",
+   "engineId": 18,
+   "tire": "Radial275",
+   "carId": 22,
+   "adder": "blower",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.6828,
+   "mph": 189.3758,
+   "sixty": 0.977509141,
+   "date": "2026-11-27T02:43:47",
+   "kind": "fastest",
+   "preset": "presets/BDR - Outlaw 4 - X 275 Blower - Clutch - 6.683.json"
+  },
+  {
    "path": "tunes/X275 Import/Modified Import 1__turbo__6 Cylinder Pro Import Big Block 275__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
    "sha": "347f6364c0131d1a",
    "class": "X275 Import",
@@ -17669,6 +17688,7 @@
   "22_135": "f837bf11d6c373c2",
   "22_136": "f837bf11d6c373c2",
   "22_137": "f837bf11d6c373c2",
+  "22_18": "f837bf11d6c373c2",
   "22_21": "f837bf11d6c373c2",
   "22_22": "f837bf11d6c373c2",
   "22_23": "f837bf11d6c373c2",
