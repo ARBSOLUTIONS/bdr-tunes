@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:35:20",
+ "updated": "2026-11-27T02:35:25",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -11873,7 +11873,8 @@
    "mph": 198.785553,
    "sixty": 0.924937963,
    "date": "2026-11-25T20:10:55",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 24 - Pro Street Blower (1) - Clutch - 6.416.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 24__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -11929,7 +11930,8 @@
    "mph": 203.668076,
    "sixty": 1.00572693,
    "date": "2026-11-25T09:40:39",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 24 - Pro Street Twin Turbo (1) - Clutch - 6.520.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 25__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -11947,7 +11949,8 @@
    "mph": 194.751236,
    "sixty": 1.02633929,
    "date": "2026-11-25T07:59:53",
-   "kind": "fastest"
+   "kind": "fastest",
+   "preset": "presets/BDR - Outlaw 25 - Pro Street Blower (1) - Clutch - 6.784.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 25__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -11965,7 +11968,8 @@
    "mph": 200.695786,
    "sixty": 0.9355909,
    "date": "2026-11-25T11:32:34",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 25 - Pro Street Centrifugal (1) - Clutch - 6.406.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 25__nitrous__Pro Street Nitrous (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12002,7 +12006,8 @@
    "mph": 204.951614,
    "sixty": 0.938232958,
    "date": "2026-11-25T09:56:33",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 25 - Pro Street Twin Turbo (1) - Clutch - 6.297.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 26__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12020,7 +12025,8 @@
    "mph": 196.375336,
    "sixty": 0.9708649,
    "date": "2026-11-25T08:29:56",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 26 - Pro Street Blower (1) - Clutch - 6.496.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 26__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12038,7 +12044,8 @@
    "mph": 201.72818,
    "sixty": 0.9589292,
    "date": "2026-11-25T12:21:41",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 26 - Pro Street Centrifugal (1) - Clutch - 6.399.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 26__nitrous__Pro Street Nitrous (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12056,7 +12063,8 @@
    "mph": 209.31076,
    "sixty": 0.9516111,
    "date": "2026-11-25T14:23:13",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 26 - Pro Street Nitrous (1) - Clutch - 6.266.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 26__turbo__Pro Street Twin Turbo (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12074,7 +12082,8 @@
    "mph": 206.328857,
    "sixty": 0.9410912,
    "date": "2026-11-25T10:30:10",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 26 - Pro Street Twin Turbo (1) - Clutch - 6.303.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 2__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12092,7 +12101,8 @@
    "mph": 198.850769,
    "sixty": 0.9524772,
    "date": "2026-11-25T17:58:25",
-   "kind": "fastest"
+   "kind": "fastest",
+   "preset": "presets/BDR - Outlaw 2 - Pro Street Blower (1) - Clutch - 6.498.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 2__centrifugal__Pro Street Centrifugal (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12110,7 +12120,8 @@
    "mph": 200.1075,
    "sixty": 0.966751754,
    "date": "2026-11-25T10:18:02",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 2 - Pro Street Centrifugal (1) - Clutch - 6.454.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 2__nitrous__Pro Street Nitrous (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12128,7 +12139,8 @@
    "mph": 210.754883,
    "sixty": 0.954105,
    "date": "2026-11-25T12:07:58",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 2 - Pro Street Nitrous (1) - Clutch - 6.266.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 2__turbo__Pro Street Twin Turbo (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -12146,7 +12158,8 @@
    "mph": 206.015381,
    "sixty": 0.9474629,
    "date": "2026-11-25T08:31:03",
-   "kind": "winning"
+   "kind": "winning",
+   "preset": "presets/BDR - Outlaw 2 - Pro Street Twin Turbo (1) - Clutch - 6.331.json"
   },
   {
    "path": "tunes/Pro Street/Outlaw 33__blower__Pro Street Blower (1)__Slick105/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -17278,6 +17291,25 @@
    "preset": "presets/BDR - Outlaw 1 - X 275 Twin Turbo - Converter - 6.524.json"
   },
   {
+   "path": "tunes/X275/Outlaw 2__blower__X 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "f23654bf0c3b90e4",
+   "class": "X275",
+   "car": "Outlaw 2",
+   "engine": "X 275 Blower",
+   "engineId": 18,
+   "tire": "Radial275",
+   "carId": 13,
+   "adder": "blower",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.692,
+   "mph": 189.464432,
+   "sixty": 0.987398744,
+   "date": "2026-11-27T02:35:12",
+   "kind": "fastest",
+   "preset": "presets/BDR - Outlaw 2 - X 275 Blower - Clutch - 6.692.json"
+  },
+  {
    "path": "tunes/X275/Outlaw 3__blower__X 275 Blower__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
    "sha": "7794d5b5c4652713",
    "class": "X275",
@@ -17516,6 +17548,7 @@
   "13_135": "4175632986a7ebb8",
   "13_136": "4175632986a7ebb8",
   "13_137": "4175632986a7ebb8",
+  "13_18": "4175632986a7ebb8",
   "13_21": "4175632986a7ebb8",
   "13_22": "4175632986a7ebb8",
   "13_23": "4175632986a7ebb8",
