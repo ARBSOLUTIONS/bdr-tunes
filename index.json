@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:09:43",
+ "updated": "2026-11-27T02:10:15",
  "tunes": [
   {
    "path": "tunes/All Motor/FWD Import 1__na__4 Cyl FWD All Motor__Fwd/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -1083,6 +1083,25 @@
    "date": "2026-11-27T01:08:50",
    "kind": "fastest",
    "preset": "presets/BDR - Modified Import 6 - 3 Rotor Pro Import Small Block (1) - Clutch - 6.931.json"
+  },
+  {
+   "path": "tunes/Import Street Rod/Modified Import 6__turbo__4 Cyl Pro Import Small Block (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
+   "sha": "7e6e2cf4ecdd6282",
+   "class": "Import Street Rod",
+   "car": "Modified Import 6",
+   "engine": "4 Cyl Pro Import Small Block (1)",
+   "engineId": 141,
+   "tire": "Radial275",
+   "carId": 112,
+   "adder": "turbo",
+   "cond": "SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp",
+   "dt": "Clutch",
+   "et": 6.9481,
+   "mph": 219.5465,
+   "sixty": 1.109692,
+   "date": "2026-11-27T02:10:00",
+   "kind": "fastest",
+   "preset": "presets/BDR - Modified Import 6 - 4 Cyl Pro Import Small Block (1) - Clutch - 6.948.json"
   },
   {
    "path": "tunes/Import Street Rod/Modified Import 6__turbo__6 Cylinder X275 (1)__Radial275/SLM Raceway_QuarterMile_Perfect_DA-1000_HeadsUp_Clutch.json",
@@ -17293,6 +17312,7 @@
   "112_138": "bddcd62dbab498cd",
   "112_139": "bddcd62dbab498cd",
   "112_140": "bddcd62dbab498cd",
+  "112_141": "bddcd62dbab498cd",
   "112_39": "bddcd62dbab498cd",
   "112_40": "bddcd62dbab498cd",
   "112_41": "bddcd62dbab498cd",
